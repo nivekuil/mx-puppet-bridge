@@ -146,10 +146,17 @@ export class RoomSyncroniser {
 				log.info("Channel doesn't exist yet, creating entry...");
 				doUpdate = true;
 				// let's fetch the create data via hook
-				const newData = await this.bridge.namespaceHandler.createRoom(data);
-				if (newData) {
-					data = newData;
+				try {
+					const newData = await this.bridge.namespaceHandler.createRoom(data);
+                    if (newData) {
+					    data = newData;
+				    }
+				} catch (err) {
+					if (err.body.errcode !== "M_ROOM_IN_USE") {
+                        throw err;
+					}
 				}
+
 				const invites = new Set<string>();
 				// we need a bit of leverage for playing around who actually creates the room,
 				// so adding two ghosts to the invites set should be fine
