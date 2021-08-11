@@ -1,0 +1,3378 @@
+{
+  "program": {
+    "fileInfos": {
+      "../node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "b42eddba1a53c9d27279cfe7fc0416c10a81489826ad47e39013b9d340fc0cc7",
+        "signature": "b42eddba1a53c9d27279cfe7fc0416c10a81489826ad47e39013b9d340fc0cc7"
+      },
+      "../node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96",
+        "signature": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96"
+      },
+      "../node_modules/typescript/lib/lib.es2016.d.ts": {
+        "version": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1",
+        "signature": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1"
+      },
+      "../node_modules/typescript/lib/lib.es2017.d.ts": {
+        "version": "459097c7bdd88fc5731367e56591e4f465f2c9de81a35427a7bd473165c34743",
+        "signature": "459097c7bdd88fc5731367e56591e4f465f2c9de81a35427a7bd473165c34743"
+      },
+      "../node_modules/typescript/lib/lib.es2018.d.ts": {
+        "version": "9c67dcc7ca897b61f58d57d487bc9f07950546e5ac8701cbc41a8a4fec48b091",
+        "signature": "9c67dcc7ca897b61f58d57d487bc9f07950546e5ac8701cbc41a8a4fec48b091"
+      },
+      "../node_modules/typescript/lib/lib.es2019.d.ts": {
+        "version": "0fc0f68d3f4d94aa65fab955592e4a9f2066e6f8ee2f66fcc45adf4037fc167b",
+        "signature": "0fc0f68d3f4d94aa65fab955592e4a9f2066e6f8ee2f66fcc45adf4037fc167b"
+      },
+      "../node_modules/typescript/lib/lib.es2020.d.ts": {
+        "version": "585694acba05fe18d6ad9c9f662f3de3766779933efb9f2d8c482c1a92bf073c",
+        "signature": "585694acba05fe18d6ad9c9f662f3de3766779933efb9f2d8c482c1a92bf073c"
+      },
+      "../node_modules/typescript/lib/lib.esnext.d.ts": {
+        "version": "391b7b55f424b8f658ba78a051650424c9c8667c1e77a5fa2c76888f7cf9dcd3",
+        "signature": "391b7b55f424b8f658ba78a051650424c9c8667c1e77a5fa2c76888f7cf9dcd3"
+      },
+      "../node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "f2039e0dbc31f69183f6377b368c033802dfdcf77e5fd214def06c1fd7b225ed",
+        "signature": "f2039e0dbc31f69183f6377b368c033802dfdcf77e5fd214def06c1fd7b225ed"
+      },
+      "../node_modules/typescript/lib/lib.dom.iterable.d.ts": {
+        "version": "8329c3401aa8708426c7760f14219170f69a2cb77e4519758cec6f5027270faf",
+        "signature": "8329c3401aa8708426c7760f14219170f69a2cb77e4519758cec6f5027270faf"
+      },
+      "../node_modules/typescript/lib/lib.webworker.importscripts.d.ts": {
+        "version": "fe4e59403e34c7ff747abe4ff6abbc7718229556d7c1a5b93473fb53156c913b",
+        "signature": "fe4e59403e34c7ff747abe4ff6abbc7718229556d7c1a5b93473fb53156c913b"
+      },
+      "../node_modules/typescript/lib/lib.scripthost.d.ts": {
+        "version": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9",
+        "signature": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9"
+      },
+      "../node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "734ddc145e147fbcd55f07d034f50ccff1086f5a880107665ec326fb368876f6",
+        "signature": "734ddc145e147fbcd55f07d034f50ccff1086f5a880107665ec326fb368876f6"
+      },
+      "../node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "4a0862a21f4700de873db3b916f70e41570e2f558da77d2087c9490f5a0615d8",
+        "signature": "4a0862a21f4700de873db3b916f70e41570e2f558da77d2087c9490f5a0615d8"
+      },
+      "../node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "765e0e9c9d74cf4d031ca8b0bdb269a853e7d81eda6354c8510218d03db12122",
+        "signature": "765e0e9c9d74cf4d031ca8b0bdb269a853e7d81eda6354c8510218d03db12122"
+      },
+      "../node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "285958e7699f1babd76d595830207f18d719662a0c30fac7baca7df7162a9210",
+        "signature": "285958e7699f1babd76d595830207f18d719662a0c30fac7baca7df7162a9210"
+      },
+      "../node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "d4deaafbb18680e3143e8b471acd650ed6f72a408a33137f0a0dd104fbe7f8ca",
+        "signature": "d4deaafbb18680e3143e8b471acd650ed6f72a408a33137f0a0dd104fbe7f8ca"
+      },
+      "../node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe",
+        "signature": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe"
+      },
+      "../node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976",
+        "signature": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976"
+      },
+      "../node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230",
+        "signature": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230"
+      },
+      "../node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303",
+        "signature": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303"
+      },
+      "../node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
+        "version": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0",
+        "signature": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0"
+      },
+      "../node_modules/typescript/lib/lib.es2017.object.d.ts": {
+        "version": "c2d60b2e558d44384e4704b00e6b3d154334721a911f094d3133c35f0917b408",
+        "signature": "c2d60b2e558d44384e4704b00e6b3d154334721a911f094d3133c35f0917b408"
+      },
+      "../node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
+        "version": "b8667586a618c5cf64523d4e500ae39e781428abfb28f3de441fc66b56144b6f",
+        "signature": "b8667586a618c5cf64523d4e500ae39e781428abfb28f3de441fc66b56144b6f"
+      },
+      "../node_modules/typescript/lib/lib.es2017.string.d.ts": {
+        "version": "21df2e0059f14dcb4c3a0e125859f6b6ff01332ee24b0065a741d121250bc71c",
+        "signature": "21df2e0059f14dcb4c3a0e125859f6b6ff01332ee24b0065a741d121250bc71c"
+      },
+      "../node_modules/typescript/lib/lib.es2017.intl.d.ts": {
+        "version": "c1759cb171c7619af0d2234f2f8fb2a871ee88e956e2ed91bb61778e41f272c6",
+        "signature": "c1759cb171c7619af0d2234f2f8fb2a871ee88e956e2ed91bb61778e41f272c6"
+      },
+      "../node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
+        "version": "28569d59e07d4378cb3d54979c4c60f9f06305c9bb6999ffe6cab758957adc46",
+        "signature": "28569d59e07d4378cb3d54979c4c60f9f06305c9bb6999ffe6cab758957adc46"
+      },
+      "../node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts": {
+        "version": "2958de3d25bfb0b5cdace0244e11c9637e5988920b99024db705a720ce6348e7",
+        "signature": "2958de3d25bfb0b5cdace0244e11c9637e5988920b99024db705a720ce6348e7"
+      },
+      "../node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": {
+        "version": "85085a0783532dc04b66894748dc4a49983b2fbccb0679b81356947021d7a215",
+        "signature": "85085a0783532dc04b66894748dc4a49983b2fbccb0679b81356947021d7a215"
+      },
+      "../node_modules/typescript/lib/lib.es2018.intl.d.ts": {
+        "version": "5494f46d3a8a0329d13ddc37f8759d5288760febb51c92336608d1c06bb18d29",
+        "signature": "5494f46d3a8a0329d13ddc37f8759d5288760febb51c92336608d1c06bb18d29"
+      },
+      "../node_modules/typescript/lib/lib.es2018.promise.d.ts": {
+        "version": "efe049114bad1035b0aa9a4a0359f50ab776e3897c411521e51d3013079cbd62",
+        "signature": "efe049114bad1035b0aa9a4a0359f50ab776e3897c411521e51d3013079cbd62"
+      },
+      "../node_modules/typescript/lib/lib.es2018.regexp.d.ts": {
+        "version": "e7780d04cd4120ee554c665829db2bbdd6b947cbaa3c150b7d9ea74df3beb2e8",
+        "signature": "e7780d04cd4120ee554c665829db2bbdd6b947cbaa3c150b7d9ea74df3beb2e8"
+      },
+      "../node_modules/typescript/lib/lib.es2019.array.d.ts": {
+        "version": "7054111c49ea06f0f2e623eab292a9c1ae9b7d04854bd546b78f2b8b57e13d13",
+        "signature": "7054111c49ea06f0f2e623eab292a9c1ae9b7d04854bd546b78f2b8b57e13d13"
+      },
+      "../node_modules/typescript/lib/lib.es2019.object.d.ts": {
+        "version": "989b95205f1189943fab0ce12a39c80570edf8f200aca60e0fdc500afc4d5859",
+        "signature": "989b95205f1189943fab0ce12a39c80570edf8f200aca60e0fdc500afc4d5859"
+      },
+      "../node_modules/typescript/lib/lib.es2019.string.d.ts": {
+        "version": "e9bfd234b801c955459cde7109bebf6fd1b4814fd8b394942f5ba746828a6486",
+        "signature": "e9bfd234b801c955459cde7109bebf6fd1b4814fd8b394942f5ba746828a6486"
+      },
+      "../node_modules/typescript/lib/lib.es2019.symbol.d.ts": {
+        "version": "5f2a476cdb4990b249077b46a6242979876e9bba5152e066d68fad77510ee328",
+        "signature": "5f2a476cdb4990b249077b46a6242979876e9bba5152e066d68fad77510ee328"
+      },
+      "../node_modules/typescript/lib/lib.es2020.bigint.d.ts": {
+        "version": "0c9ea8c2028047f39a3f66752682604f543c08be8806258c3d95c93e75a43255",
+        "signature": "0c9ea8c2028047f39a3f66752682604f543c08be8806258c3d95c93e75a43255"
+      },
+      "../node_modules/typescript/lib/lib.es2020.promise.d.ts": {
+        "version": "4a44be5b17ae6385fcc9a486361f50231992d556c9298373ae0d38cfae9f4056",
+        "signature": "4a44be5b17ae6385fcc9a486361f50231992d556c9298373ae0d38cfae9f4056"
+      },
+      "../node_modules/typescript/lib/lib.es2020.string.d.ts": {
+        "version": "01f1170ac78a31964a8a05cc46df7dc63d6911f683cb49586b27c49f54187a86",
+        "signature": "01f1170ac78a31964a8a05cc46df7dc63d6911f683cb49586b27c49f54187a86"
+      },
+      "../node_modules/typescript/lib/lib.es2020.symbol.wellknown.d.ts": {
+        "version": "1debec13dc47b66e7e5a5ceb3872ea7f141613148f6083ef6dc38626ee8c9a93",
+        "signature": "1debec13dc47b66e7e5a5ceb3872ea7f141613148f6083ef6dc38626ee8c9a93"
+      },
+      "../node_modules/typescript/lib/lib.esnext.intl.d.ts": {
+        "version": "1377923021927244ea19433873b997ad8585533b0a56d5de29cda497f7842756",
+        "signature": "1377923021927244ea19433873b997ad8585533b0a56d5de29cda497f7842756"
+      },
+      "../node_modules/typescript/lib/lib.es2016.full.d.ts": {
+        "version": "a1205f8b74ba57896ae4eb9ff19a5ffc7f210352b0b535abcd36d6b06225a3ac",
+        "signature": "a1205f8b74ba57896ae4eb9ff19a5ffc7f210352b0b535abcd36d6b06225a3ac"
+      },
+      "../node_modules/@types/node/globals.d.ts": {
+        "version": "23533216d80ee2a361476d23848e89e9e448243efd39c866d7aa45f749e1f10c",
+        "signature": "23533216d80ee2a361476d23848e89e9e448243efd39c866d7aa45f749e1f10c"
+      },
+      "../node_modules/@types/node/async_hooks.d.ts": {
+        "version": "0721418a90edc5fca466672f266ab6de12cb50a9db29998fc58765481a3c82ef",
+        "signature": "0721418a90edc5fca466672f266ab6de12cb50a9db29998fc58765481a3c82ef"
+      },
+      "../node_modules/@types/node/buffer.d.ts": {
+        "version": "97b39f33e966bcf9762bccdaca76c94825199f3fef153ebea9bdfd3fcd2413b6",
+        "signature": "97b39f33e966bcf9762bccdaca76c94825199f3fef153ebea9bdfd3fcd2413b6"
+      },
+      "../node_modules/@types/node/child_process.d.ts": {
+        "version": "6faabaa554f376e19115c4b1a591b920a569852f77f606a5482c718d56130103",
+        "signature": "6faabaa554f376e19115c4b1a591b920a569852f77f606a5482c718d56130103"
+      },
+      "../node_modules/@types/node/cluster.d.ts": {
+        "version": "c41eff6b8e1f91104ae974ccd2bc37c723a462b30ca1df942b2c5b0158ef1df3",
+        "signature": "c41eff6b8e1f91104ae974ccd2bc37c723a462b30ca1df942b2c5b0158ef1df3"
+      },
+      "../node_modules/@types/node/console.d.ts": {
+        "version": "2e341737e0711c12040e83047487240b1693a6774253b8142d1a0500a805b7a1",
+        "signature": "2e341737e0711c12040e83047487240b1693a6774253b8142d1a0500a805b7a1"
+      },
+      "../node_modules/@types/node/constants.d.ts": {
+        "version": "e08e97c2865750e880fea09b150a702ccfa84163382daa0221f5597185a554bf",
+        "signature": "e08e97c2865750e880fea09b150a702ccfa84163382daa0221f5597185a554bf"
+      },
+      "../node_modules/@types/node/crypto.d.ts": {
+        "version": "7ec6b45fc1f5f012ac226b44d0eeaf5a0e90947431ad7c6d1f244ba080b2870d",
+        "signature": "7ec6b45fc1f5f012ac226b44d0eeaf5a0e90947431ad7c6d1f244ba080b2870d"
+      },
+      "../node_modules/@types/node/dgram.d.ts": {
+        "version": "cb9602b051a0cb72e2a77160f95315cd3a51521d79bc53c6baa9e7b9afcaba17",
+        "signature": "cb9602b051a0cb72e2a77160f95315cd3a51521d79bc53c6baa9e7b9afcaba17"
+      },
+      "../node_modules/@types/node/dns.d.ts": {
+        "version": "8296198bc72e7ef2221b0e140738ce56004e8d1323cd08b0ac1a15295fe911b5",
+        "signature": "8296198bc72e7ef2221b0e140738ce56004e8d1323cd08b0ac1a15295fe911b5"
+      },
+      "../node_modules/@types/node/domain.d.ts": {
+        "version": "baeda1fadac9fd31920480b85340ab9c4266a25ad08403dee8e15fd0751101fb",
+        "signature": "baeda1fadac9fd31920480b85340ab9c4266a25ad08403dee8e15fd0751101fb"
+      },
+      "../node_modules/@types/node/events.d.ts": {
+        "version": "12c4e8e811f4310b0dcaa3d1f843a35dc985f78941886cad4950453ad6753959",
+        "signature": "12c4e8e811f4310b0dcaa3d1f843a35dc985f78941886cad4950453ad6753959"
+      },
+      "../node_modules/@types/node/fs.d.ts": {
+        "version": "c4a89c5697132de27809abfb629c0f0add74b4592405f28af8909830390cab85",
+        "signature": "c4a89c5697132de27809abfb629c0f0add74b4592405f28af8909830390cab85"
+      },
+      "../node_modules/@types/node/http.d.ts": {
+        "version": "31544b63117232151ea2268088a7045a2acda55c091e489053803bfa8ed07bd2",
+        "signature": "31544b63117232151ea2268088a7045a2acda55c091e489053803bfa8ed07bd2"
+      },
+      "../node_modules/@types/node/http2.d.ts": {
+        "version": "318e46e7f7893360bf389abd8e33259a81a424038163a11493c4f2771e5645fe",
+        "signature": "318e46e7f7893360bf389abd8e33259a81a424038163a11493c4f2771e5645fe"
+      },
+      "../node_modules/@types/node/https.d.ts": {
+        "version": "a3586135924c800f21f739a1da43acace1acfdba124deb0871cbd6d04d7dfd1b",
+        "signature": "a3586135924c800f21f739a1da43acace1acfdba124deb0871cbd6d04d7dfd1b"
+      },
+      "../node_modules/@types/node/inspector.d.ts": {
+        "version": "afe65de64262cec0469be9d7b93e751f52125aacd1ab600fbbd79b829a8e30d7",
+        "signature": "afe65de64262cec0469be9d7b93e751f52125aacd1ab600fbbd79b829a8e30d7"
+      },
+      "../node_modules/@types/node/module.d.ts": {
+        "version": "4ec74fe565d13fd219884cfacf903c89477cc54148887e51c5bead4dae7dc4fd",
+        "signature": "4ec74fe565d13fd219884cfacf903c89477cc54148887e51c5bead4dae7dc4fd"
+      },
+      "../node_modules/@types/node/net.d.ts": {
+        "version": "64bac41b1ecd4578543db0c244addd3fa59ada4cedd6e761cdae0e2fc2e340f2",
+        "signature": "64bac41b1ecd4578543db0c244addd3fa59ada4cedd6e761cdae0e2fc2e340f2"
+      },
+      "../node_modules/@types/node/os.d.ts": {
+        "version": "a46d8aa9e561fb135d253e1657a0cd0f6c18377676305eb0ca28e418358b229c",
+        "signature": "a46d8aa9e561fb135d253e1657a0cd0f6c18377676305eb0ca28e418358b229c"
+      },
+      "../node_modules/@types/node/path.d.ts": {
+        "version": "5a168a15e7a423011b10da472ee3b6d92b27227c192cdaf1e09b30f58806856d",
+        "signature": "5a168a15e7a423011b10da472ee3b6d92b27227c192cdaf1e09b30f58806856d"
+      },
+      "../node_modules/@types/node/perf_hooks.d.ts": {
+        "version": "ad107fa472d28e615af522b31653e75caad12b834b257c1a83f6c4acff2de9bf",
+        "signature": "ad107fa472d28e615af522b31653e75caad12b834b257c1a83f6c4acff2de9bf"
+      },
+      "../node_modules/@types/node/process.d.ts": {
+        "version": "07cfc938dfbb5a7b5ba3c363366db93d5728b0fcad1aa08a12052a1b3b72817a",
+        "signature": "07cfc938dfbb5a7b5ba3c363366db93d5728b0fcad1aa08a12052a1b3b72817a"
+      },
+      "../node_modules/@types/node/punycode.d.ts": {
+        "version": "7f77304372efe3c9967e5f9ea2061f1b4bf41dc3cda3c83cdd676f2e5af6b7e6",
+        "signature": "7f77304372efe3c9967e5f9ea2061f1b4bf41dc3cda3c83cdd676f2e5af6b7e6"
+      },
+      "../node_modules/@types/node/querystring.d.ts": {
+        "version": "67cf04da598e6407427a17d828e9e02d8f5ae5a8466dc73d1585073b8dc29160",
+        "signature": "67cf04da598e6407427a17d828e9e02d8f5ae5a8466dc73d1585073b8dc29160"
+      },
+      "../node_modules/@types/node/readline.d.ts": {
+        "version": "d2df4329291a761edc8ebf536b1ff2179aa8871d55ae65a0bd74a44586a84f3e",
+        "signature": "d2df4329291a761edc8ebf536b1ff2179aa8871d55ae65a0bd74a44586a84f3e"
+      },
+      "../node_modules/@types/node/repl.d.ts": {
+        "version": "140b05c89cbd5fc75c4e9c1780d85dfb4ea73a2b11dd345f8f944afd002ad74f",
+        "signature": "140b05c89cbd5fc75c4e9c1780d85dfb4ea73a2b11dd345f8f944afd002ad74f"
+      },
+      "../node_modules/@types/node/stream.d.ts": {
+        "version": "be1a6689031647571bc4749d490b630bb2dad8c7221c92d8fe6847733b8ed7dc",
+        "signature": "be1a6689031647571bc4749d490b630bb2dad8c7221c92d8fe6847733b8ed7dc"
+      },
+      "../node_modules/@types/node/string_decoder.d.ts": {
+        "version": "5b0df2143d96172bf207ed187627e8c58b15a1a8f97bdbc2ede942b36b39fc98",
+        "signature": "5b0df2143d96172bf207ed187627e8c58b15a1a8f97bdbc2ede942b36b39fc98"
+      },
+      "../node_modules/@types/node/timers.d.ts": {
+        "version": "75409a3abea76ea586c6fb7f2e9f1a7dc007140e2d4ee26ab127735c4f9154e4",
+        "signature": "75409a3abea76ea586c6fb7f2e9f1a7dc007140e2d4ee26ab127735c4f9154e4"
+      },
+      "../node_modules/@types/node/tls.d.ts": {
+        "version": "e129f3fc6deebf7764e49b68b366aeaaf2d0867e5b8f1b34145c02e87d7eb591",
+        "signature": "e129f3fc6deebf7764e49b68b366aeaaf2d0867e5b8f1b34145c02e87d7eb591"
+      },
+      "../node_modules/@types/node/trace_events.d.ts": {
+        "version": "7df562288f949945cf69c21cd912100c2afedeeb7cdb219085f7f4b46cb7dde4",
+        "signature": "7df562288f949945cf69c21cd912100c2afedeeb7cdb219085f7f4b46cb7dde4"
+      },
+      "../node_modules/@types/node/tty.d.ts": {
+        "version": "9d16690485ff1eb4f6fc57aebe237728fd8e03130c460919da3a35f4d9bd97f5",
+        "signature": "9d16690485ff1eb4f6fc57aebe237728fd8e03130c460919da3a35f4d9bd97f5"
+      },
+      "../node_modules/@types/node/url.d.ts": {
+        "version": "807bf667365224f909aed5111ac8527e8e148f37fc73c61f70c762b920fb62c7",
+        "signature": "807bf667365224f909aed5111ac8527e8e148f37fc73c61f70c762b920fb62c7"
+      },
+      "../node_modules/@types/node/util.d.ts": {
+        "version": "3d87bdaed72f86b91f99401e6e04729afbb5916064778cf324b3d9b51c3a6d91",
+        "signature": "3d87bdaed72f86b91f99401e6e04729afbb5916064778cf324b3d9b51c3a6d91"
+      },
+      "../node_modules/@types/node/v8.d.ts": {
+        "version": "8ca837d16a31d6d01b13328ca9e6a39e424b4bf294d3b73349dccacea51be730",
+        "signature": "8ca837d16a31d6d01b13328ca9e6a39e424b4bf294d3b73349dccacea51be730"
+      },
+      "../node_modules/@types/node/vm.d.ts": {
+        "version": "a9d40247ec6c68a47effbb1d8acd8df288bcee7b6bf29c17cf4161e5ef609a0c",
+        "signature": "a9d40247ec6c68a47effbb1d8acd8df288bcee7b6bf29c17cf4161e5ef609a0c"
+      },
+      "../node_modules/@types/node/worker_threads.d.ts": {
+        "version": "7152c46a63e7f9ac7db6cd8d4dbf85d90f051a0db60e650573fae576580cbf9a",
+        "signature": "7152c46a63e7f9ac7db6cd8d4dbf85d90f051a0db60e650573fae576580cbf9a"
+      },
+      "../node_modules/@types/node/zlib.d.ts": {
+        "version": "496370c58ed054e51a68517846c28a695bf84df2873556cca7fe51e297b32420",
+        "signature": "496370c58ed054e51a68517846c28a695bf84df2873556cca7fe51e297b32420"
+      },
+      "../node_modules/@types/node/globals.global.d.ts": {
+        "version": "2708349d5a11a5c2e5f3a0765259ebe7ee00cdcc8161cb9990cb4910328442a1",
+        "signature": "2708349d5a11a5c2e5f3a0765259ebe7ee00cdcc8161cb9990cb4910328442a1"
+      },
+      "../node_modules/@types/node/wasi.d.ts": {
+        "version": "caf38c850b924a0af08a893d06f68fcae3d5a41780b50cc6df9481beeca8e9a3",
+        "signature": "caf38c850b924a0af08a893d06f68fcae3d5a41780b50cc6df9481beeca8e9a3"
+      },
+      "../node_modules/@types/node/ts3.6/base.d.ts": {
+        "version": "483b37cab381fe1a5c118f86ac931aebc4e1ad76f8867dc60c0f10c5c6a9305c",
+        "signature": "483b37cab381fe1a5c118f86ac931aebc4e1ad76f8867dc60c0f10c5c6a9305c"
+      },
+      "../node_modules/@types/node/assert.d.ts": {
+        "version": "0ce65cf5b36034006f2b315f379179f07bd5a6027f6538c7aed4ac5be6742fc7",
+        "signature": "0ce65cf5b36034006f2b315f379179f07bd5a6027f6538c7aed4ac5be6742fc7"
+      },
+      "../node_modules/@types/node/base.d.ts": {
+        "version": "e61a21e9418f279bc480394a94d1581b2dee73747adcbdef999b6737e34d721b",
+        "signature": "e61a21e9418f279bc480394a94d1581b2dee73747adcbdef999b6737e34d721b"
+      },
+      "../node_modules/@types/node/index.d.ts": {
+        "version": "e7cd8d77be26f363261e292e2ffd4113edcdeb76e17d14f90950fda9823b6e75",
+        "signature": "e7cd8d77be26f363261e292e2ffd4113edcdeb76e17d14f90950fda9823b6e75"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/appservice/Intent.d.ts": {
+        "version": "14ee4210ef1040eaa73f5b37897156bf4286a9991c18ec3e2b6dc52a9e914fea",
+        "signature": "14ee4210ef1040eaa73f5b37897156bf4286a9991c18ec3e2b6dc52a9e914fea"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/appservice/MatrixBridge.d.ts": {
+        "version": "11b518d0895bafd08f9674c989901a34bf123eacda2b4cf0ee08d3a6bff7c09f",
+        "signature": "11b518d0895bafd08f9674c989901a34bf123eacda2b4cf0ee08d3a6bff7c09f"
+      },
+      "../node_modules/@types/range-parser/index.d.ts": {
+        "version": "4e88b833be14c7f384e0dcd57bb30acd799e8e34d212635d693e41a75a71164b",
+        "signature": "4e88b833be14c7f384e0dcd57bb30acd799e8e34d212635d693e41a75a71164b"
+      },
+      "../node_modules/@types/qs/index.d.ts": {
+        "version": "c236451df6139a965bb9b8fba15a43a8bebf4400ca589998e2bdc5e1291fa0f9",
+        "signature": "c236451df6139a965bb9b8fba15a43a8bebf4400ca589998e2bdc5e1291fa0f9"
+      },
+      "../node_modules/@types/express-serve-static-core/index.d.ts": {
+        "version": "495cc9f802a6bce4aa21dddf13f8e61b4f0b7976621af90e31c58a4dfe4802ef",
+        "signature": "495cc9f802a6bce4aa21dddf13f8e61b4f0b7976621af90e31c58a4dfe4802ef"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/appservice/Appservice.d.ts": {
+        "version": "8b716a20bef06609580974c7dd897c8b40ed3d405f251ac1f85c9eaa1c3e1ba2",
+        "signature": "8b716a20bef06609580974c7dd897c8b40ed3d405f251ac1f85c9eaa1c3e1ba2"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/appservice/http_responses.d.ts": {
+        "version": "99d6b85573a79c44a4af34ba818b4ee52f67305f0d534a3fb29425a60455ff4d",
+        "signature": "99d6b85573a79c44a4af34ba818b4ee52f67305f0d534a3fb29425a60455ff4d"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/helpers/RichReply.d.ts": {
+        "version": "ff3f84794b07f2a05d225d7b46e9c0cdd0723f56f3f1b214cc6d8276bda3fbf9",
+        "signature": "ff3f84794b07f2a05d225d7b46e9c0cdd0723f56f3f1b214cc6d8276bda3fbf9"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/IFilter.d.ts": {
+        "version": "6cba30b9c3cc1d0ba30b9870597e66084b6174997e7b9758e7b2f89155a7b516",
+        "signature": "6cba30b9c3cc1d0ba30b9870597e66084b6174997e7b9758e7b2f89155a7b516"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/storage/IStorageProvider.d.ts": {
+        "version": "ecd005c3c50bdac9f4f55d761730e7edce721ee6c92c60326a9a773d9b44d5b8",
+        "signature": "ecd005c3c50bdac9f4f55d761730e7edce721ee6c92c60326a9a773d9b44d5b8"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/strategies/JoinRoomStrategy.d.ts": {
+        "version": "b6525e0a03f9ac14925af3432e10ce5df8c2fc782c54b2a2973e1eeea66cc1b5",
+        "signature": "b6525e0a03f9ac14925af3432e10ce5df8c2fc782c54b2a2973e1eeea66cc1b5"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/MSC1772Space.d.ts": {
+        "version": "744808069a8651dc5bc78d88c0e72d29f6d57bb4192c980d62186e25a4fff9c3",
+        "signature": "744808069a8651dc5bc78d88c0e72d29f6d57bb4192c980d62186e25a4fff9c3"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/UnstableApis.d.ts": {
+        "version": "f512b043ef39bdbd371f352f6a3118cbd94c95e7d2183199165a9a55a49cf60a",
+        "signature": "f512b043ef39bdbd371f352f6a3118cbd94c95e7d2183199165a9a55a49cf60a"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/preprocessors/IPreprocessor.d.ts": {
+        "version": "0fb907bc69114c592a9f56e431e59002b3d998a959abd0c1d143f61eebffb713",
+        "signature": "0fb907bc69114c592a9f56e431e59002b3d998a959abd0c1d143f61eebffb713"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/OpenIDConnect.d.ts": {
+        "version": "59ea0603b2948125f26966f6af1d639190d504a18bf9bacb4dc4ada91789ce43",
+        "signature": "59ea0603b2948125f26966f6af1d639190d504a18bf9bacb4dc4ada91789ce43"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/Policies.d.ts": {
+        "version": "ca8652fdc9fd2458ecbd064b7cf654055402cbdc6d71999f4d420bf03ec9b31e",
+        "signature": "ca8652fdc9fd2458ecbd064b7cf654055402cbdc6d71999f4d420bf03ec9b31e"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/Threepid.d.ts": {
+        "version": "2e0815220c94103f00c16d2ba6f6c7038ed8d30c071ca380d2e9c8b2b755d2be",
+        "signature": "2e0815220c94103f00c16d2ba6f6c7038ed8d30c071ca380d2e9c8b2b755d2be"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/IdentityServerModels.d.ts": {
+        "version": "3b8cf413b43e8af38bf337bae8749bb0574ed3023961e21775754927d26e3bf0",
+        "signature": "3b8cf413b43e8af38bf337bae8749bb0574ed3023961e21775754927d26e3bf0"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/identity/IdentityClient.d.ts": {
+        "version": "b11aa302ce71038fef9939ad095585f98fced0b61d1ed871f459aee85a4489b9",
+        "signature": "b11aa302ce71038fef9939ad095585f98fced0b61d1ed871f459aee85a4489b9"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/metrics/contexts.d.ts": {
+        "version": "2953f2c7411b03e8a7c181f3f48fa45f8ea95296e298b29d02a59117e8593e01",
+        "signature": "2953f2c7411b03e8a7c181f3f48fa45f8ea95296e298b29d02a59117e8593e01"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/metrics/IMetricListener.d.ts": {
+        "version": "9fc34df8e91a852df9fac528f2a283c6d5f9059f0855e5ceab279a97db38f9d6",
+        "signature": "9fc34df8e91a852df9fac528f2a283c6d5f9059f0855e5ceab279a97db38f9d6"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/metrics/Metrics.d.ts": {
+        "version": "d97bc93a2bd8fe0168289c7ad86fb6faf87bac04cdfe6c7f8c40487b562ac51b",
+        "signature": "d97bc93a2bd8fe0168289c7ad86fb6faf87bac04cdfe6c7f8c40487b562ac51b"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/SynapseAdminApis.d.ts": {
+        "version": "59eeb995cbe4c266eba38b19cf7099dc39a4f26dc7211c26a5c405186ca3a3e2",
+        "signature": "59eeb995cbe4c266eba38b19cf7099dc39a4f26dc7211c26a5c405186ca3a3e2"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/AdminApis.d.ts": {
+        "version": "1d99d3edef637b5c873deac04be6e47684cca6f49b1798ef018599fb617ac282",
+        "signature": "1d99d3edef637b5c873deac04be6e47684cca6f49b1798ef018599fb617ac282"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/Event.d.ts": {
+        "version": "771f88f0430eeb30430c97dc5ca5614a6277a2d467732b22c0cb97e8badaac6b",
+        "signature": "771f88f0430eeb30430c97dc5ca5614a6277a2d467732b22c0cb97e8badaac6b"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/PresenceEvent.d.ts": {
+        "version": "2000d96f91b84efc7d64e8969e2dff1ecb01cfb76cddc0116022b76bdc54552d",
+        "signature": "2000d96f91b84efc7d64e8969e2dff1ecb01cfb76cddc0116022b76bdc54552d"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/Presence.d.ts": {
+        "version": "00f67ac148aae4e335710ecaaa886691b3591af42e0cc293f390bad511a54a04",
+        "signature": "00f67ac148aae4e335710ecaaa886691b3591af42e0cc293f390bad511a54a04"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomEvent.d.ts": {
+        "version": "66be687d78d609a6239b4c1db771702b35046db9f71eb9c3f9aa9e92185b05ca",
+        "signature": "66be687d78d609a6239b4c1db771702b35046db9f71eb9c3f9aa9e92185b05ca"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/MembershipEvent.d.ts": {
+        "version": "27b5f2b31507ca7ea44bf1f4fbac42033694198cce32c1d2be15895795f71205",
+        "signature": "27b5f2b31507ca7ea44bf1f4fbac42033694198cce32c1d2be15895795f71205"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/EventContext.d.ts": {
+        "version": "135c7586b593f6e438900e3d1ceff829470ccac1ac87f2b71d3c9d0354c9a1d3",
+        "signature": "135c7586b593f6e438900e3d1ceff829470ccac1ac87f2b71d3c9d0354c9a1d3"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/PowerLevelBounds.d.ts": {
+        "version": "48c379ebe92daa4b70898b5eeb8e2ad999b3be263b4092b3855c660c2a91a861",
+        "signature": "48c379ebe92daa4b70898b5eeb8e2ad999b3be263b4092b3855c660c2a91a861"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/MatrixClient.d.ts": {
+        "version": "26f80d8ef4f8328994e01c4e387cda40b7b730beeceb8178bb533fbb3d6cd71c",
+        "signature": "26f80d8ef4f8328994e01c4e387cda40b7b730beeceb8178bb533fbb3d6cd71c"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/helpers/MentionPill.d.ts": {
+        "version": "c6bde4379409c96540108606ffbc769f3d8f2ad76adb16966cc8272d5c3ac7c9",
+        "signature": "c6bde4379409c96540108606ffbc769f3d8f2ad76adb16966cc8272d5c3ac7c9"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/helpers/Permalinks.d.ts": {
+        "version": "f2357457496b6c6069d543832efed10a371ea05e92a87db0b560065d9f113397",
+        "signature": "f2357457496b6c6069d543832efed10a371ea05e92a87db0b560065d9f113397"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/helpers/MatrixGlob.d.ts": {
+        "version": "a7d10b8d3f1c914761f1e2985be47a729ab8b68d7ca51a8169cffc9c6d9fcf43",
+        "signature": "a7d10b8d3f1c914761f1e2985be47a729ab8b68d7ca51a8169cffc9c6d9fcf43"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/helpers/ProfileCache.d.ts": {
+        "version": "6a0088d0aaa763d9a8f166b1e24927340c84198a565464b6e079adcd21c1dbeb",
+        "signature": "6a0088d0aaa763d9a8f166b1e24927340c84198a565464b6e079adcd21c1dbeb"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/helpers/MatrixEntity.d.ts": {
+        "version": "c64640e5e32d0a59b0676f6c905c9a25e240d09282741e6ef855f1a8618f74e9",
+        "signature": "c64640e5e32d0a59b0676f6c905c9a25e240d09282741e6ef855f1a8618f74e9"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/helpers/UnpaddedBase64.d.ts": {
+        "version": "b62450a55a9690991a4df2f27ab53fc3b4f4b5b8178371413c8049684736da30",
+        "signature": "b62450a55a9690991a4df2f27ab53fc3b4f4b5b8178371413c8049684736da30"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/logging/ILogger.d.ts": {
+        "version": "f99138694a6a5299c5294c7d022145da0e10404f5583439598dd3498365e4e5e",
+        "signature": "f99138694a6a5299c5294c7d022145da0e10404f5583439598dd3498365e4e5e"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/logging/ConsoleLogger.d.ts": {
+        "version": "c242971176c8f8cdb0be2226239236367fb038e9d338ac418105215c0fe9a648",
+        "signature": "c242971176c8f8cdb0be2226239236367fb038e9d338ac418105215c0fe9a648"
+      },
+      "../node_modules/chalk/index.d.ts": {
+        "version": "0d14fa22c41fdc7277e6f71473b20ebc07f40f00e38875142335d5b63cdfc9d2",
+        "signature": "0d14fa22c41fdc7277e6f71473b20ebc07f40f00e38875142335d5b63cdfc9d2"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/logging/RichConsoleLogger.d.ts": {
+        "version": "b00ba96aae6210c2d377396e9772613bcd8f56a872bc8609b458daa9bbc48644",
+        "signature": "b00ba96aae6210c2d377396e9772613bcd8f56a872bc8609b458daa9bbc48644"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/logging/LogService.d.ts": {
+        "version": "5d85c3d69b77c36310dbe10d5ac202bbbc93cee8037f60b06af8f93cab4d1e7e",
+        "signature": "5d85c3d69b77c36310dbe10d5ac202bbbc93cee8037f60b06af8f93cab4d1e7e"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/metrics/names.d.ts": {
+        "version": "7b34fdeef12c6002d316bd7c49bdb4106c3c1f6d460ecce4d0e53b7301465c30",
+        "signature": "7b34fdeef12c6002d316bd7c49bdb4106c3c1f6d460ecce4d0e53b7301465c30"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/metrics/decorators.d.ts": {
+        "version": "dd37be9aecdb06d6eee35db5c585a5ba11996f9a863f5159b5d4fd9932b868dd",
+        "signature": "dd37be9aecdb06d6eee35db5c585a5ba11996f9a863f5159b5d4fd9932b868dd"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/mixins/AutojoinRoomsMixin.d.ts": {
+        "version": "5cb538f3c2ffad1d15c5b9787e5a14c2b48eeda288587d81f1b481de264fae2f",
+        "signature": "5cb538f3c2ffad1d15c5b9787e5a14c2b48eeda288587d81f1b481de264fae2f"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/mixins/AutojoinUpgradedRoomsMixin.d.ts": {
+        "version": "012d719e53f93fc513c59b1e000837b3453a2fc06c9f85912d2cae353ae25bf1",
+        "signature": "012d719e53f93fc513c59b1e000837b3453a2fc06c9f85912d2cae353ae25bf1"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/MatrixProfile.d.ts": {
+        "version": "aa54e1f11a07628a0f5468014deb355da873971ae73356e2d1066bb8e186369f",
+        "signature": "aa54e1f11a07628a0f5468014deb355da873971ae73356e2d1066bb8e186369f"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/EventKind.d.ts": {
+        "version": "ed92a5611d7b3991689e29fee85f52062717f655838b62b587ed42a51f7e05c0",
+        "signature": "ed92a5611d7b3991689e29fee85f52062717f655838b62b587ed42a51f7e05c0"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/converter.d.ts": {
+        "version": "c01a62db39e0728c45eb6ed090a5d3d0deb7b1ffb9c82f224a1dd8e4dee5abfb",
+        "signature": "c01a62db39e0728c45eb6ed090a5d3d0deb7b1ffb9c82f224a1dd8e4dee5abfb"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/InvalidEventError.d.ts": {
+        "version": "93373e9a772c88a7301c884a17349869716f229e4ba8ab519aa31034b0e9369d",
+        "signature": "93373e9a772c88a7301c884a17349869716f229e4ba8ab519aa31034b0e9369d"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/MessageEvent.d.ts": {
+        "version": "6ccd2da9d2be2f12d9df7f750999a9a02cc8e1c491544ef71c9c66a0e96fa13e",
+        "signature": "6ccd2da9d2be2f12d9df7f750999a9a02cc8e1c491544ef71c9c66a0e96fa13e"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/AliasesEvent.d.ts": {
+        "version": "315d0f2d0cd07d30580c77b97af96ebb7017fa28d6f3764cdc6a8e5188e8de7e",
+        "signature": "315d0f2d0cd07d30580c77b97af96ebb7017fa28d6f3764cdc6a8e5188e8de7e"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/CanonicalAliasEvent.d.ts": {
+        "version": "fb6a4995cf9ef249d762e03b5a1a0eb8e6e2ed8e61f571378ddb529e116fa488",
+        "signature": "fb6a4995cf9ef249d762e03b5a1a0eb8e6e2ed8e61f571378ddb529e116fa488"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/CreateEvent.d.ts": {
+        "version": "59b47e1f521e79ba2be6ece48b973fc20b120e52f37f835144edb54d0abd1cf8",
+        "signature": "59b47e1f521e79ba2be6ece48b973fc20b120e52f37f835144edb54d0abd1cf8"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/JoinRulesEvent.d.ts": {
+        "version": "0be11fd2d7d961a189a722bb84924e5a7eda808f9b9d0113e9ede400298f2669",
+        "signature": "0be11fd2d7d961a189a722bb84924e5a7eda808f9b9d0113e9ede400298f2669"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/PowerLevelsEvent.d.ts": {
+        "version": "65efb527152fdbc5999bc54889c9d8432bfd6507222c1d7982df72d5c19808dc",
+        "signature": "65efb527152fdbc5999bc54889c9d8432bfd6507222c1d7982df72d5c19808dc"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RedactionEvent.d.ts": {
+        "version": "0ad3ae329f43f7461607cb8d42f829c5b407d1f9cfb435bc04ccab26df9ad8e5",
+        "signature": "0ad3ae329f43f7461607cb8d42f829c5b407d1f9cfb435bc04ccab26df9ad8e5"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/PinnedEventsEvent.d.ts": {
+        "version": "2c8242afdb3a4b6ad0ff60c6cc6ff9046df4d332a237b391ce36e60c9749b0a1",
+        "signature": "2c8242afdb3a4b6ad0ff60c6cc6ff9046df4d332a237b391ce36e60c9749b0a1"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomAvatarEvent.d.ts": {
+        "version": "4c537ea3ea4d513c4744ff83dcb733dc9e2689ca3f337e54e1993dfb822b8107",
+        "signature": "4c537ea3ea4d513c4744ff83dcb733dc9e2689ca3f337e54e1993dfb822b8107"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomNameEvent.d.ts": {
+        "version": "56ff01c4dbb6ede8a469e041441ff8dac013afa85eca0e1919b7fc75d7a769b1",
+        "signature": "56ff01c4dbb6ede8a469e041441ff8dac013afa85eca0e1919b7fc75d7a769b1"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomTopicEvent.d.ts": {
+        "version": "7ee26c40d56e8190dc97287e928a0e4cb4ac5ca276af8608c13a9c3b47e61df8",
+        "signature": "7ee26c40d56e8190dc97287e928a0e4cb4ac5ca276af8608c13a9c3b47e61df8"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/preprocessors/RichRepliesPreprocessor.d.ts": {
+        "version": "7d4723a0d3d1ca147da7f36a94fc9b88b45e4068f6fe3e211e627d3d1bfd5b24",
+        "signature": "7d4723a0d3d1ca147da7f36a94fc9b88b45e4068f6fe3e211e627d3d1bfd5b24"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/storage/IAppserviceStorageProvider.d.ts": {
+        "version": "497de72ad4ae6754e612b4e6d9d668e5721765e7867889d87f2f47357fa51d7e",
+        "signature": "497de72ad4ae6754e612b4e6d9d668e5721765e7867889d87f2f47357fa51d7e"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/storage/MemoryStorageProvider.d.ts": {
+        "version": "023899faee35c064f9b11cc345ed3aa76c225eae7eb994cf0a700bf5fefc3a71",
+        "signature": "023899faee35c064f9b11cc345ed3aa76c225eae7eb994cf0a700bf5fefc3a71"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/storage/SimpleFsStorageProvider.d.ts": {
+        "version": "8f090b8b5e04e27d9ebf6de0547774926ac4bac90c354d4d42578dbdcce51285",
+        "signature": "8f090b8b5e04e27d9ebf6de0547774926ac4bac90c354d4d42578dbdcce51285"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/strategies/AppserviceJoinRoomStrategy.d.ts": {
+        "version": "7ba9a6be19807b2f16d3630b3803718d5b6f3f54ed1d058f17209a30e19a5a7b",
+        "signature": "7ba9a6be19807b2f16d3630b3803718d5b6f3f54ed1d058f17209a30e19a5a7b"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/MatrixAuth.d.ts": {
+        "version": "420586978ab7582222b4178172a20db5019d7ec71e670c46475c0dc8184e39e0",
+        "signature": "420586978ab7582222b4178172a20db5019d7ec71e670c46475c0dc8184e39e0"
+      },
+      "../node_modules/p-cancelable/index.d.ts": {
+        "version": "3563ec7b709c5adf97e8467fc1d0d117aac33ce90a8e7db61dcc9aa10a9f2fb6",
+        "signature": "3563ec7b709c5adf97e8467fc1d0d117aac33ce90a8e7db61dcc9aa10a9f2fb6"
+      },
+      "../node_modules/@szmarczak/http-timer/dist/source/index.d.ts": {
+        "version": "7ab735672492614a1af2098219bd191642e2bbd126e0631e13ed15e947238a51",
+        "signature": "7ab735672492614a1af2098219bd191642e2bbd126e0631e13ed15e947238a51"
+      },
+      "../node_modules/got/node_modules/cacheable-lookup/index.d.ts": {
+        "version": "c77e2a25b0b7e23ad5b5087e16db5aeec6741dcc8e99b8aae1a6b58659083b6d",
+        "signature": "c77e2a25b0b7e23ad5b5087e16db5aeec6741dcc8e99b8aae1a6b58659083b6d"
+      },
+      "../node_modules/@types/keyv/index.d.ts": {
+        "version": "9e7f7ac4d964992cf1b77612ca07e5695821881aa1a9acb0ef0509f192a5ea23",
+        "signature": "9e7f7ac4d964992cf1b77612ca07e5695821881aa1a9acb0ef0509f192a5ea23"
+      },
+      "../node_modules/@types/http-cache-semantics/index.d.ts": {
+        "version": "0bf440ab914e79e890cb15e5ffacb5e18bec678338b3eab069a5829d3d5c96e3",
+        "signature": "0bf440ab914e79e890cb15e5ffacb5e18bec678338b3eab069a5829d3d5c96e3"
+      },
+      "../node_modules/@types/responselike/index.d.ts": {
+        "version": "3cfb0cb51cc2c2e1b313d7c4df04dbf7e5bda0a133c6b309bf6af77cf614b971",
+        "signature": "3cfb0cb51cc2c2e1b313d7c4df04dbf7e5bda0a133c6b309bf6af77cf614b971"
+      },
+      "../node_modules/@types/cacheable-request/index.d.ts": {
+        "version": "73c05cca1bb5aa8e93efd089af51643b7ff005e47064a0e624a74ee20480a2eb",
+        "signature": "73c05cca1bb5aa8e93efd089af51643b7ff005e47064a0e624a74ee20480a2eb"
+      },
+      "../node_modules/got/dist/source/core/utils/timed-out.d.ts": {
+        "version": "e40f22ef14ca35f5019e16f852366d0880e42e955c03cc25da2abe689eef679c",
+        "signature": "e40f22ef14ca35f5019e16f852366d0880e42e955c03cc25da2abe689eef679c"
+      },
+      "../node_modules/got/dist/source/core/utils/options-to-url.d.ts": {
+        "version": "8d12345aee8dedececa587bb31701273a3088ba4f83e866cdfa26a05b3f36a13",
+        "signature": "8d12345aee8dedececa587bb31701273a3088ba4f83e866cdfa26a05b3f36a13"
+      },
+      "../node_modules/got/dist/source/core/utils/dns-ip-version.d.ts": {
+        "version": "01856d31c900d93d280293d98ec9ca9be4991ab3acd3216bf985513eba3544b8",
+        "signature": "01856d31c900d93d280293d98ec9ca9be4991ab3acd3216bf985513eba3544b8"
+      },
+      "../node_modules/got/dist/source/core/index.d.ts": {
+        "version": "c7c1cb6f5d557f231390375bf1e8f1520e5c379f55c5ee551c66b8a70d20d5f1",
+        "signature": "c7c1cb6f5d557f231390375bf1e8f1520e5c379f55c5ee551c66b8a70d20d5f1"
+      },
+      "../node_modules/got/dist/source/as-promise/types.d.ts": {
+        "version": "2c0d8c9cdea4f41f395b91f722ea0a18451c173ead39df01e4d4e82b80d26cff",
+        "signature": "2c0d8c9cdea4f41f395b91f722ea0a18451c173ead39df01e4d4e82b80d26cff"
+      },
+      "../node_modules/got/dist/source/as-promise/index.d.ts": {
+        "version": "576ec53c444adac3b7725ced6240de54a04183791fe9d7cc880de11411114ff2",
+        "signature": "576ec53c444adac3b7725ced6240de54a04183791fe9d7cc880de11411114ff2"
+      },
+      "../node_modules/got/dist/source/types.d.ts": {
+        "version": "a23796c344ad16236b13a283af0d7d519cb9e9c9ba406bad0cd04871c6c78c95",
+        "signature": "a23796c344ad16236b13a283af0d7d519cb9e9c9ba406bad0cd04871c6c78c95"
+      },
+      "../node_modules/got/dist/source/create.d.ts": {
+        "version": "b3e3394b5ffa583518ace1099d5df14cb887ec1578a023116fac4a35480d2b38",
+        "signature": "b3e3394b5ffa583518ace1099d5df14cb887ec1578a023116fac4a35480d2b38"
+      },
+      "../node_modules/got/dist/source/index.d.ts": {
+        "version": "ac3459d91154275b1cd916f265d0151fc4a4a3b3701b1c58cb7c32ea48a7aaec",
+        "signature": "ac3459d91154275b1cd916f265d0151fc4a4a3b3701b1c58cb7c32ea48a7aaec"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/request.d.ts": {
+        "version": "cf35405e173536da6a3002d8ccec6cc6763281d3fed9945d4a1521c9d346539e",
+        "signature": "cf35405e173536da6a3002d8ccec6cc6763281d3fed9945d4a1521c9d346539e"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/PantalaimonClient.d.ts": {
+        "version": "6f3bb73d4f560072146a931325c6bace47cca28834b6b0111718fc7f4e142f3c",
+        "signature": "6f3bb73d4f560072146a931325c6bace47cca28834b6b0111718fc7f4e142f3c"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/SynchronousMatrixClient.d.ts": {
+        "version": "cd4a06c9fdc2eeb9e3883664538cb84a545adb232a453f1b47eec254e7aa90bc",
+        "signature": "cd4a06c9fdc2eeb9e3883664538cb84a545adb232a453f1b47eec254e7aa90bc"
+      },
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/index.d.ts": {
+        "version": "c01fb0861d294141319bf4f6cacfa6815db0ab0d73ee4428786a3279091a1e59",
+        "signature": "c01fb0861d294141319bf4f6cacfa6815db0ab0d73ee4428786a3279091a1e59"
+      },
+      "../node_modules/prom-client/index.d.ts": {
+        "version": "62158f4e02c3b2b946e6e8f93aba4bd1cd368666507645485c73061c8111f590",
+        "signature": "62158f4e02c3b2b946e6e8f93aba4bd1cd368666507645485c73061c8111f590"
+      },
+      "../node_modules/@types/mime/index.d.ts": {
+        "version": "be27a64e821a3e5af838650e4aa25805c60f057d0c37a9762c378d19d364b3e6",
+        "signature": "be27a64e821a3e5af838650e4aa25805c60f057d0c37a9762c378d19d364b3e6"
+      },
+      "../node_modules/@types/serve-static/index.d.ts": {
+        "version": "71102320dd6f5420b958510f67dc75c01961c757f3086837494e3828cb86dbf7",
+        "signature": "71102320dd6f5420b958510f67dc75c01961c757f3086837494e3828cb86dbf7"
+      },
+      "../node_modules/@types/connect/index.d.ts": {
+        "version": "e6ffa74698f0a1d23e4223242ed7dcdb89d02bbbb063a1930e9f91d0385abe16",
+        "signature": "e6ffa74698f0a1d23e4223242ed7dcdb89d02bbbb063a1930e9f91d0385abe16"
+      },
+      "../node_modules/@types/body-parser/index.d.ts": {
+        "version": "ebddbd167c2fabd0151f50e5df94ca6d845149c47521280d8867afe3429dd078",
+        "signature": "ebddbd167c2fabd0151f50e5df94ca6d845149c47521280d8867afe3429dd078"
+      },
+      "../node_modules/@types/express/index.d.ts": {
+        "version": "924732dfbdfd120ee07cf733c7c65018f24ce9ddf06ed9ccf3cad8fdc2e33585",
+        "signature": "924732dfbdfd120ee07cf733c7c65018f24ce9ddf06ed9ccf3cad8fdc2e33585"
+      },
+      "../src/db/connector.ts": {
+        "version": "3d3429befcbb4f68f2ab56d963dd4442e0afde82878f63f76899605c3a6e05e9",
+        "signature": "ac734ab17eeacbf07869cd196d6f433a8bba17f1997b99ecf2fb1c3f2d5668d0"
+      },
+      "../node_modules/logform/index.d.ts": {
+        "version": "6dbcfbc6f4662840d93d1d9d7fb5cce1b1fa00f43caa595ffee1a70f1583a0b0",
+        "signature": "6dbcfbc6f4662840d93d1d9d7fb5cce1b1fa00f43caa595ffee1a70f1583a0b0"
+      },
+      "../node_modules/winston-transport/index.d.ts": {
+        "version": "d667ec244bc8f65d0ac176f7ea91ef9e2904e7aa10923fbbe843d19f1270593b",
+        "signature": "d667ec244bc8f65d0ac176f7ea91ef9e2904e7aa10923fbbe843d19f1270593b"
+      },
+      "../node_modules/winston/lib/winston/config/index.d.ts": {
+        "version": "e9c33c05be71c17c3b08988fe6755605632a09c5cdd267cede8de5558ec80027",
+        "signature": "e9c33c05be71c17c3b08988fe6755605632a09c5cdd267cede8de5558ec80027"
+      },
+      "../node_modules/winston/lib/winston/transports/index.d.ts": {
+        "version": "87ccbc897e31409ff604f0b0b0f7a29efa1e51f0858aaea9ec294deec863558c",
+        "signature": "87ccbc897e31409ff604f0b0b0f7a29efa1e51f0858aaea9ec294deec863558c"
+      },
+      "../node_modules/winston/index.d.ts": {
+        "version": "4bd85c7eeaceccc938121fcbd580883f6bb84d8326eb0db9c79a9961551a2bc5",
+        "signature": "4bd85c7eeaceccc938121fcbd580883f6bb84d8326eb0db9c79a9961551a2bc5"
+      },
+      "../src/config.ts": {
+        "version": "fbd5f4e914213b528c1f3f883f35b2b4a325471c8bd8367cd6707961b31142c2",
+        "signature": "190fc0f52fc7e761a8b3667beec87dd73c86c3e3558f852291fc07fe547e294d"
+      },
+      "../node_modules/winston-daily-rotate-file/index.d.ts": {
+        "version": "4c570f0041833d2f0de12702421c59e724e0f84df40982547f7950af3ca17856",
+        "signature": "4c570f0041833d2f0de12702421c59e724e0f84df40982547f7950af3ca17856"
+      },
+      "../src/log.ts": {
+        "version": "c23c7515b1a364c7e7fad74bfe091c75302c4c2c7f3ff8055f43c99e6cd0408b",
+        "signature": "8d6744072e64b9051111446d892315ec228f36b8ca03edde2a6dbf73add40085"
+      },
+      "../src/structures/stringformatter.ts": {
+        "version": "76852d7868f85af865c4f3f62e128f33da0633fa6c2acfe24a0040bbf7c55f3e",
+        "signature": "0215c17353fd2e718231114c7aaaed2781d26cd02559f57b7c49fbcb39950649"
+      },
+      "../src/interfaces.ts": {
+        "version": "03f660aee7ca45bf79eafa70e6dc104904186cea3bcd0656a8fcba621a5803c1",
+        "signature": "bcaeaf0f75934019a51270211be27a113a146a016f38cd812221f1c2176acc41"
+      },
+      "../src/db/interfaces.ts": {
+        "version": "5ad701e83c79845de1eec922770f3d1d3436bf3d8aebadfd600fe2b4a73e8ed6",
+        "signature": "35f7d6b4a141a00d6a34354c876a8ed8964d676b76808711f42465e4def65afd"
+      },
+      "../src/db/emotestore.ts": {
+        "version": "5bb2fba29befc46ebd0177274a75f8287056ee22838b3fb1eeee69c3909dd511",
+        "signature": "90f64422cd6750ed39802ed686a6389ded00ad7830762825d2d8584d65b33639"
+      },
+      "../node_modules/file-type/index.d.ts": {
+        "version": "c92ceabecd8c47caa23d0d14cd0d4645f69087ddccac018587fd5c36bc522b0e",
+        "signature": "c92ceabecd8c47caa23d0d14cd0d4645f69087ddccac018587fd5c36bc522b0e"
+      },
+      "../node_modules/buffer/index.d.ts": {
+        "version": "8e9c23ba78aabc2e0a27033f18737a6df754067731e69dc5f52823957d60a4b6",
+        "signature": "8e9c23ba78aabc2e0a27033f18737a6df754067731e69dc5f52823957d60a4b6"
+      },
+      "../node_modules/hasha/node_modules/type-fest/source/basic.d.ts": {
+        "version": "fda9e5c2afd0920ead6baed40f164229ec8f93188b5c8df196594a54bb8fb5e3",
+        "signature": "fda9e5c2afd0920ead6baed40f164229ec8f93188b5c8df196594a54bb8fb5e3"
+      },
+      "../node_modules/hasha/node_modules/type-fest/source/except.d.ts": {
+        "version": "c58be3e560989a877531d3ff7c9e5db41c5dd9282480ccf197abfcc708a95b8d",
+        "signature": "c58be3e560989a877531d3ff7c9e5db41c5dd9282480ccf197abfcc708a95b8d"
+      },
+      "../node_modules/hasha/node_modules/type-fest/source/mutable.d.ts": {
+        "version": "91f23ddc3971b1c8938c638fb55601a339483953e1eb800675fa5b5e8113db72",
+        "signature": "91f23ddc3971b1c8938c638fb55601a339483953e1eb800675fa5b5e8113db72"
+      },
+      "../node_modules/hasha/node_modules/type-fest/source/merge.d.ts": {
+        "version": "50d22844db90a0dcd359afeb59dd1e9a384d977b4b363c880b4e65047237a29e",
+        "signature": "50d22844db90a0dcd359afeb59dd1e9a384d977b4b363c880b4e65047237a29e"
+      },
+      "../node_modules/hasha/node_modules/type-fest/source/merge-exclusive.d.ts": {
+        "version": "d33782b82eea0ee17b99ca563bd19b38259a3aaf096d306ceaf59cd4422629be",
+        "signature": "d33782b82eea0ee17b99ca563bd19b38259a3aaf096d306ceaf59cd4422629be"
+      },
+      "../node_modules/hasha/node_modules/type-fest/source/require-at-least-one.d.ts": {
+        "version": "7f7f1420c69806e268ab7820cbe31a2dcb2f836f28b3d09132a2a95b4a454b80",
+        "signature": "7f7f1420c69806e268ab7820cbe31a2dcb2f836f28b3d09132a2a95b4a454b80"
+      },
+      "../node_modules/hasha/node_modules/type-fest/source/require-exactly-one.d.ts": {
+        "version": "f9ecf72f3842ae35faf3aa122a9c87a486446cb9084601695f9e6a2cdf0d3e4b",
+        "signature": "f9ecf72f3842ae35faf3aa122a9c87a486446cb9084601695f9e6a2cdf0d3e4b"
+      },
+      "../node_modules/hasha/node_modules/type-fest/source/partial-deep.d.ts": {
+        "version": "61046f12c3cfafd353d2d03febc96b441c1a0e3bb82a5a88de78cc1be9e10520",
+        "signature": "61046f12c3cfafd353d2d03febc96b441c1a0e3bb82a5a88de78cc1be9e10520"
+      },
+      "../node_modules/hasha/node_modules/type-fest/source/readonly-deep.d.ts": {
+        "version": "f4e7f5824ac7b35539efc3bef36b3e6be89603b88224cb5c0ad3526a454fc895",
+        "signature": "f4e7f5824ac7b35539efc3bef36b3e6be89603b88224cb5c0ad3526a454fc895"
+      },
+      "../node_modules/hasha/node_modules/type-fest/source/literal-union.d.ts": {
+        "version": "091af8276fbc70609a00e296840bd284a2fe29df282f0e8dae2de9f0a706685f",
+        "signature": "091af8276fbc70609a00e296840bd284a2fe29df282f0e8dae2de9f0a706685f"
+      },
+      "../node_modules/hasha/node_modules/type-fest/source/promisable.d.ts": {
+        "version": "537aff717746703d2157ec563b5de4f6393ce9f69a84ae62b49e9b6c80b6e587",
+        "signature": "537aff717746703d2157ec563b5de4f6393ce9f69a84ae62b49e9b6c80b6e587"
+      },
+      "../node_modules/hasha/node_modules/type-fest/source/opaque.d.ts": {
+        "version": "5a0c23174f822edd4a0c5f52308fd6cbdfcc5ef9c4279286cf7da548fd46cb1b",
+        "signature": "5a0c23174f822edd4a0c5f52308fd6cbdfcc5ef9c4279286cf7da548fd46cb1b"
+      },
+      "../node_modules/hasha/node_modules/type-fest/source/set-optional.d.ts": {
+        "version": "5d007514c3876ecc7326b898d1738eed7b77d6a3611d73f5c99fe37801dd48e6",
+        "signature": "5d007514c3876ecc7326b898d1738eed7b77d6a3611d73f5c99fe37801dd48e6"
+      },
+      "../node_modules/hasha/node_modules/type-fest/source/set-required.d.ts": {
+        "version": "85dff77bf599bd57135b34169d8f80914bbcdb52dfa9fb5fa2204b366363d519",
+        "signature": "85dff77bf599bd57135b34169d8f80914bbcdb52dfa9fb5fa2204b366363d519"
+      },
+      "../node_modules/hasha/node_modules/type-fest/source/package-json.d.ts": {
+        "version": "8b108d831999b4c6b1df9c39cdcc57c059ef19219c441e5b61bca20aabb9f411",
+        "signature": "8b108d831999b4c6b1df9c39cdcc57c059ef19219c441e5b61bca20aabb9f411"
+      },
+      "../node_modules/hasha/node_modules/type-fest/index.d.ts": {
+        "version": "04c593214be9083f51ed93751bd556bfdc0737b0a4cdaf225b12a525df7fa0dc",
+        "signature": "04c593214be9083f51ed93751bd556bfdc0737b0a4cdaf225b12a525df7fa0dc"
+      },
+      "../node_modules/hasha/index.d.ts": {
+        "version": "74e62f8e35e46a477b2a37bd77cf7a0bd2d264ac8c03a7c9c612320e8ce2cc3b",
+        "signature": "74e62f8e35e46a477b2a37bd77cf7a0bd2d264ac8c03a7c9c612320e8ce2cc3b"
+      },
+      "../src/util.ts": {
+        "version": "05b858ead1c690235ad6acded71e8e0107ae83e61d91e5c3d0e3095d77950b7f",
+        "signature": "273d08794744322ec1c8150f9f37d3feb54cac36b1149ef752b8d870c4433ef0"
+      },
+      "../src/structures/lock.ts": {
+        "version": "3429c79173e720b5530bc9c0a7bf34bfa7379ed58a6ff90a7c04b7d94c685294",
+        "signature": "0afbae29a21fe01d212dcc2c0d00a9781aebefc5e500dce638d6b173b5abb04d"
+      },
+      "../src/emotesyncroniser.ts": {
+        "version": "894fe9e33bd59498edf7dd17fb58221261a2446294c044629209dba39f19b709",
+        "signature": "3743d929474366ca72e3f4812a781730180910febc7637ff2f863ef139b5022f"
+      },
+      "../src/db/eventstore.ts": {
+        "version": "ed8ea1583c2f9942c73c9a0ddccaca69a705baa188ec25e0638468eca82cf73c",
+        "signature": "dd49efacf04b62cf34483bcceddbc83190156761bde9771f16554e3cce31892f"
+      },
+      "../src/eventsyncroniser.ts": {
+        "version": "c8b6b194b9c8c0e983b96d0165af144ecb8e26317af1e017308ac9efb93de988",
+        "signature": "e6a2ac85dd98fe4203ff3c7a76bc9d6c5aa310548d22b70eac9e95b0c31047fc"
+      },
+      "../src/structures/timedcache.ts": {
+        "version": "9dacfa00522c2632090c26ecfe15d144019bb8f483d208fa6fe1e8cde18a827c",
+        "signature": "539dabd2a6e13cc83bbbaa80d0301b0f214f7e6a119b46b8ec420b7ff201d5c9"
+      },
+      "../src/db/roomstore.ts": {
+        "version": "ab0062887b94865cf17bd3944acb1b1f307c188c4a842c1e92be18f9c006c5ba",
+        "signature": "277d036735ccc77e17862a7b965ebe0fa1b743b3570e5f669db95c9d18fcfc34"
+      },
+      "../src/roomsyncroniser.ts": {
+        "version": "edbb13fff585cb685ca0ec262bbed46beb13d8fa08d767705008a29b95be0bcd",
+        "signature": "d734295b9303f01b5d4ab1a482c786503e26ab3560470a397fc1603dda2eca16"
+      },
+      "../src/db/userstore.ts": {
+        "version": "59459fd0417f932ee3c974eeea6ddd5f404a81c14e41303b5c474f578104a602",
+        "signature": "c324f255e924ab5426ca2adf696cc8bd4d5ed42296d1bcfd949339e598f40fef"
+      },
+      "../src/db/puppetstore.ts": {
+        "version": "e19943836fd694cc32a25928ffc7479049737a172f5ddd21ca05c2a6f296ce9b",
+        "signature": "24dfd95e20080a9be9d796d9e9ec458698da89b2b00e3222a07c7c6690a05d99"
+      },
+      "../src/provisioner.ts": {
+        "version": "3dd1a25049a5630b6f94b3e493e8ea9023897e32a6ed8ec793dfd06718a8a956",
+        "signature": "0b904b858d43f681f790f55717b3ad064648ecd294be49badc1502633d1f7c33"
+      },
+      "../src/usersyncroniser.ts": {
+        "version": "59fa9a3935c243ce0cdb7fb5ae28235d52e5d3f15a698895bc07ef5147f44052",
+        "signature": "7010d8ab4d0cd318e323a42677ce41be9f100eec85cfbcc9716107424c90f98b"
+      },
+      "../src/db/groupstore.ts": {
+        "version": "7dcf59ab076ede8c59cda476a4d1c2eb3059a529b1611fc0af45bd7454d45c47",
+        "signature": "a99d714d7495dd2dc3f1bfa2beeab549e60f8a1cadaff96127c253905a80bc59"
+      },
+      "../src/groupsyncroniser.ts": {
+        "version": "ce7859c9223f7b7fbc4867b9e98f58e6452ba04f8972dbf0d3def1c0f6d17e2f",
+        "signature": "59cb9d12961faf6251c089f04217f5edbf907bfb28c1694c108eafef50987703"
+      },
+      "../src/db/reactionstore.ts": {
+        "version": "0bda7d7a5e7328b7f71fd590bc15e35e84540a305297c3bf7e69f5a9ad23f45f",
+        "signature": "209229222cb2d4edf72af908e07788860ceab6f5da8f23f664e4066ff878b08c"
+      },
+      "../src/db/schema/dbschema.ts": {
+        "version": "db43212d566ee127b233e52eec5938f01309b1cdd12b0338d6627e4eb1cf11be",
+        "signature": "129c68dc489dc9fdacee0da39d47f94184091a15721b4266db774064aafac636"
+      },
+      "../src/db/sqlite3.ts": {
+        "version": "33b1cc81648612acc1cd8ce59371e6cc86c86cb54d768d6a6b725eb8876d18e4",
+        "signature": "4a2685966c747e40dad7fadec2cb2c2b71966385929070584ee3b6fd8b7696c3"
+      },
+      "../node_modules/pg-promise/typescript/pg-subset.d.ts": {
+        "version": "01f8c96bdfda100bc8a841f401dec816523b98b1b9e90d55ab987ba56718ad2d",
+        "signature": "01f8c96bdfda100bc8a841f401dec816523b98b1b9e90d55ab987ba56718ad2d"
+      },
+      "../node_modules/pg-minify/typescript/pg-minify.d.ts": {
+        "version": "385c6a1ea7a9114811a41778bd7ec8238c5089c0b2f742479a98cd43ac5d4846",
+        "signature": "385c6a1ea7a9114811a41778bd7ec8238c5089c0b2f742479a98cd43ac5d4846"
+      },
+      "../node_modules/spex/typescript/spex.d.ts": {
+        "version": "81227e8224efd998d95c2eb370fc3dcf9233e2c1c01d798b720b9fbbd440457e",
+        "signature": "81227e8224efd998d95c2eb370fc3dcf9233e2c1c01d798b720b9fbbd440457e"
+      },
+      "../node_modules/pg-promise/typescript/pg-promise.d.ts": {
+        "version": "d008661b7fa8490d9c3e06d665bd29ba1805ef24ce7772dfe88d5cfbd21df32f",
+        "signature": "d008661b7fa8490d9c3e06d665bd29ba1805ef24ce7772dfe88d5cfbd21df32f"
+      },
+      "../src/db/postgres.ts": {
+        "version": "3fab5ceb5ba970f463eeebd6226e2987cdcf9406d35af6117fd3b7763a7ed3bb",
+        "signature": "b69c2dc5ef4c4639e40fd162815d78bf6463348fba217c8521be123d584fa5e2"
+      },
+      "../src/store.ts": {
+        "version": "37ac4dbde89094496381283a2610d2df1664f59a4cbd315b6e0a7deac53c74af",
+        "signature": "8d99743d1f697b10f07c8ac40efce022659dad632a686feb797b48a5490a5e25"
+      },
+      "../src/joinstrategy.ts": {
+        "version": "02bec4f04115e487d37f340ad0217d4c0a6470733cc2ef48755b967b1dd69283",
+        "signature": "38382982b2fa546c7ef1a4d6c1078edca3792321312a7ff4bdecb8c58ebdf8a8"
+      },
+      "../src/provisioningapi.ts": {
+        "version": "e274b1236cfa8eedd7782fa78735ce885583aab13a5be2c47e91e17eb89cd24b",
+        "signature": "9d217617353ee053fffb3c6598b40a44e7d58011eebda7197aaf111f8f816641"
+      },
+      "../src/presencehandler.ts": {
+        "version": "a0245eaa492aa26358a8dcf116c4ed238d5017845c1e18f745155b7a3fdbc9db",
+        "signature": "6c460dc3b9cfa4f3f902b2308acba9d0e62487eea2208fecce160137d6fe1c21"
+      },
+      "../node_modules/expire-set/lib/src/index.d.ts": {
+        "version": "5246b92fa2ede08267aa05c2f93d46531c413ae8053c808b3182fbfd83e87b5a",
+        "signature": "5246b92fa2ede08267aa05c2f93d46531c413ae8053c808b3182fbfd83e87b5a"
+      },
+      "../src/structures/messagededuplicator.ts": {
+        "version": "f02b7c97c3759bf71d32dd9057c1e55bbf7cd6e27718d1d7d554095d02d8caf0",
+        "signature": "1d0f6a87c7bd057d4a962b10e72790e07b665a6719461446292bdf7ba666ede7"
+      },
+      "../src/typinghandler.ts": {
+        "version": "1543ba27610650cb3495937f39dba4969add7ac8ead7d01884fa515f1d05dcb3",
+        "signature": "5a72a1234d32f686d178ee120a4c65dd6087b03dc7bae74d2846cb7e0cd7fe16"
+      },
+      "../src/reactionhandler.ts": {
+        "version": "b2783d4f796479176495d22061afb7c9abc78ebb76670df2dae966af93758714",
+        "signature": "1b2900a37d4e5fabe818feeb76ddb02f903f445abf7a128a5a4f66896ac0a7a9"
+      },
+      "../src/matrixeventhandler.ts": {
+        "version": "c81f76d6d1112c2d481a3532a697c24a3a6691e94441fc43de104da9c94377a6",
+        "signature": "e045976b82477571126039f49c5568252854607caae654ac2a1300618c24a5fe"
+      },
+      "../node_modules/blurhash/dist/decode.d.ts": {
+        "version": "9802130aba06b16cff77d7b9c89cf5a306f7eb480ba319143380eb3a7f07597f",
+        "signature": "9802130aba06b16cff77d7b9c89cf5a306f7eb480ba319143380eb3a7f07597f"
+      },
+      "../node_modules/blurhash/dist/encode.d.ts": {
+        "version": "02fabf139d5cfc2ec70024d683ee149323c4fee6004d51865452c303d0f44239",
+        "signature": "02fabf139d5cfc2ec70024d683ee149323c4fee6004d51865452c303d0f44239"
+      },
+      "../node_modules/blurhash/dist/error.d.ts": {
+        "version": "8a4014ffd0db34c4a8528899a3277a5f54699cf3d42cdf2344bcbf617d66e637",
+        "signature": "8a4014ffd0db34c4a8528899a3277a5f54699cf3d42cdf2344bcbf617d66e637"
+      },
+      "../node_modules/blurhash/dist/index.d.ts": {
+        "version": "0ad7dbed1f4abfe3013a46e7e70bdc85981fc9a8760780a8b34767dbdac4ff61",
+        "signature": "0ad7dbed1f4abfe3013a46e7e70bdc85981fc9a8760780a8b34767dbdac4ff61"
+      },
+      "../node_modules/canvas/types/index.d.ts": {
+        "version": "972ac7483ef1685284ba6261bcb644be0a89fa7754e093305e5f4a3ee1b111b5",
+        "signature": "972ac7483ef1685284ba6261bcb644be0a89fa7754e093305e5f4a3ee1b111b5"
+      },
+      "../src/remoteeventhandler.ts": {
+        "version": "bb1e5d3656704cec033e2b1f7a0e27fb8c924034fe87509b3c807dabf80ba5b4",
+        "signature": "b5a2862d16e91ddb0fac547859553fd2b070e4af0e0e4f3925f2addaaea5f5d9"
+      },
+      "../src/namespacehandler.ts": {
+        "version": "5e36323d33eae023c93a16f96d3395a0167010c5a513985b9ef16ac1a7086306",
+        "signature": "0985df6fbaba77ab77bc220c8b99b2390a374f9d93bd3a1a0a46279da6265d95"
+      },
+      "../src/structures/delayedfunction.ts": {
+        "version": "51efdeed9d8ad4f3d9a3a3d09b8ce6658c622c6d6348b48bbb677786fb5c93ed",
+        "signature": "daaba78cc1edb071b13db6ae9436d61ea66723fa9bff9bc05917eb5b47ae0bfb"
+      },
+      "../src/puppetbridge.ts": {
+        "version": "b94c348a7d7c94cbdea0c5bc53040386bf31c885945f092afdaa300e683bd8e0",
+        "signature": "a804552a85fab02c56343098aae559c254630e0a149993ad74dd9c488e185419"
+      },
+      "../src/botprovisioner.ts": {
+        "version": "82dadb5fa149d1ac17905418b0863408c914cb2034f55d886bc68d57d812861c",
+        "signature": "56cfe3e11be3e0a53d03243fd718490e6f7ae057551f05f5531aece4c56aec93"
+      },
+      "../src/index.ts": {
+        "version": "05b8a22e5a79c5a5c8314ff7a04f5b25d81978387e3bd4c94c1cadbfe2aa1202",
+        "signature": "fa6d2d5bc486abfc0902ec56eb56b6a36afef8318c264570d679946e5a63d281"
+      },
+      "../src/db/schema/v1.ts": {
+        "version": "3fc6adb9980badedf0999b3ef210d07b6f4d1f6aff96caa04e661cd2db82fb89",
+        "signature": "692083452e505af3af301b969bd362a5537597fe4d2ad424c75a84b77b9ec761"
+      },
+      "../src/db/schema/v10.ts": {
+        "version": "53255aa460c276b234523b0ef301ecee1b9f63cc1052929dd0277192c1fd4a1d",
+        "signature": "692083452e505af3af301b969bd362a5537597fe4d2ad424c75a84b77b9ec761"
+      },
+      "../src/db/schema/v11.ts": {
+        "version": "b66ec7706aa3d1e67fd6c568f46288ed51cf59fd40d9149c34f72ef220710dbf",
+        "signature": "692083452e505af3af301b969bd362a5537597fe4d2ad424c75a84b77b9ec761"
+      },
+      "../src/db/schema/v12.ts": {
+        "version": "63eed807e07262c8c47307e9589f32a8041f873053ee675cadb8db742753933b",
+        "signature": "692083452e505af3af301b969bd362a5537597fe4d2ad424c75a84b77b9ec761"
+      },
+      "../src/db/schema/v13.ts": {
+        "version": "f853abdf7d71c3165c1b427dc727ff353806c99773c20332673b50214eed18cb",
+        "signature": "692083452e505af3af301b969bd362a5537597fe4d2ad424c75a84b77b9ec761"
+      },
+      "../src/db/schema/v14.ts": {
+        "version": "007a913841475d76756af1040024b3b4652b0c8e922e7e3ab36aa08071f4900e",
+        "signature": "692083452e505af3af301b969bd362a5537597fe4d2ad424c75a84b77b9ec761"
+      },
+      "../src/db/schema/v15.ts": {
+        "version": "5279b67dc67bde65ebee598c24aefd5659130fa58253b589e728f1c75ccd1521",
+        "signature": "692083452e505af3af301b969bd362a5537597fe4d2ad424c75a84b77b9ec761"
+      },
+      "../src/db/schema/v16.ts": {
+        "version": "5ed6d6deff8b1de49b5f7f6c37f4660d7122af172fb230861b10bb134bdfd408",
+        "signature": "692083452e505af3af301b969bd362a5537597fe4d2ad424c75a84b77b9ec761"
+      },
+      "../src/db/schema/v2.ts": {
+        "version": "573a83d8e8fa5c2ab3e42abd766ab94fad2510de1ebd479ac07a4ec2fe084402",
+        "signature": "692083452e505af3af301b969bd362a5537597fe4d2ad424c75a84b77b9ec761"
+      },
+      "../src/db/schema/v3.ts": {
+        "version": "1e783effdd129ed094e60e9966f6a5fc92b180378f6271bf9ef854900acb32f8",
+        "signature": "692083452e505af3af301b969bd362a5537597fe4d2ad424c75a84b77b9ec761"
+      },
+      "../src/db/schema/v4.ts": {
+        "version": "ebdfb3380c346417f99d188e8de6093f903fba2ee1450bd2d754f05d76a43ddd",
+        "signature": "692083452e505af3af301b969bd362a5537597fe4d2ad424c75a84b77b9ec761"
+      },
+      "../src/db/schema/v5.ts": {
+        "version": "90204690a7391415296b93ab6de35bef4f41efd33db9a794199aca561ba088ec",
+        "signature": "692083452e505af3af301b969bd362a5537597fe4d2ad424c75a84b77b9ec761"
+      },
+      "../src/db/schema/v6.ts": {
+        "version": "f408d720a0aadf2c3be148c506ec99091853ea5a467f984098ee75a0fce9508d",
+        "signature": "692083452e505af3af301b969bd362a5537597fe4d2ad424c75a84b77b9ec761"
+      },
+      "../src/db/schema/v7.ts": {
+        "version": "7de7cf88c6afc07bb444d3b0e81ace8f5291741579aa94d4a0de6b52b82c2066",
+        "signature": "692083452e505af3af301b969bd362a5537597fe4d2ad424c75a84b77b9ec761"
+      },
+      "../src/db/schema/v8.ts": {
+        "version": "c553621ecde9e8c6f251be6e1a5dd67dca9edd3956671c5cdca4fc8bffc7b362",
+        "signature": "692083452e505af3af301b969bd362a5537597fe4d2ad424c75a84b77b9ec761"
+      },
+      "../src/db/schema/v9.ts": {
+        "version": "97bf9597956d134c5eb7384c1e5e48cf0de3557b8c2ed6d155d678e12e352ae2",
+        "signature": "692083452e505af3af301b969bd362a5537597fe4d2ad424c75a84b77b9ec761"
+      },
+      "../test/config.ts": {
+        "version": "d3332087f379f854542e3b16cefaafdeef7635d132b91b51c725c4a71532b2d6",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+      },
+      "../node_modules/@types/chai/index.d.ts": {
+        "version": "1df845885d8bd29132f67f47b7a64ec35f4b83962274ee9fb38ae40a82305a72",
+        "signature": "1df845885d8bd29132f67f47b7a64ec35f4b83962274ee9fb38ae40a82305a72"
+      },
+      "../test/test_config.ts": {
+        "version": "c0c671153014b3542572b4a64a77d3368f82bfd8ad0f82d2469e04e06c4ed792",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+      },
+      "../test/test_joinstrategy.ts": {
+        "version": "932ff0eb82097df38a4de3e5298eef184b9de1efd05d3e8eaf4a348930d3759c",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+      },
+      "../test/test_log.ts": {
+        "version": "84fb4ab88d47e29312990cb3bdef9dc991ff88ea4d529dff25f2ca08b37ff2f1",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+      },
+      "../test/test_matrixeventhandler.ts": {
+        "version": "4b99e0a10cd1521a9dd5da3de9a0588167477c4d8f49516afd00d410d8b562c8",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+      },
+      "../test/test_presencehandler.ts": {
+        "version": "01391bfb6bed0949c6bc5615a7523c76f5668e89e05149ee1d00f97b653783bb",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+      },
+      "../test/test_provisioner.ts": {
+        "version": "51a819edfdd06f07aac41e5e6f409ce007ac8f93b71161a8963471a14bee47d3",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+      },
+      "../test/test_reactionhandler.ts": {
+        "version": "979c6fe2064755bc200d8479ef2951a8e7b80e51b3a76f49173c840d55fd40dc",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+      },
+      "../test/test_remoteeventhandler.ts": {
+        "version": "079eed674a1362e65c42ee9b0749bd15d342af184d99943f902b5f605dcffacc",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+      },
+      "../test/test_store.ts": {
+        "version": "e888f3bb2d79796d69779f1a533bf62924d86d07aaee1c33ced17bf285a511bc",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+      },
+      "../test/test_typinghandler.ts": {
+        "version": "316275afc53f1f5bec9a525808d28ba4eae3a028b7e0556aec1f1749893a8194",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+      },
+      "../test/test_util.ts": {
+        "version": "d317bc098d7206184560dc898ceedad5930cdeaf3781d40b6ee39553ca88f965",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+      },
+      "../test/db/test_eventstore.ts": {
+        "version": "ab58714dc3c75909cf5940eb53940919a0ddeac9919c69b60c4c9f03bc227621",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+      },
+      "../test/db/test_groupstore.ts": {
+        "version": "c59112bd6baacfde05eefcd2761bba445f128caf804fb713c352d05e3f7b49cd",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+      },
+      "../test/db/test_puppetstore.ts": {
+        "version": "a0c2d0d0a03076c93479243043207c6e059691d959917488a4ce62e21f0b7725",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+      },
+      "../test/db/test_reactionstore.ts": {
+        "version": "3a0c1407a206821309891787083aedd3c9268d2d34cc76612f70bacf1e423bff",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+      },
+      "../test/db/test_roomstore.ts": {
+        "version": "506340fe5cac89832af9113bae8fa312fd707d9106eb9b6bed4050fb42783c6f",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+      },
+      "../test/db/test_userstore.ts": {
+        "version": "76ad524330afe8cc4b8057fcce394d57526e9b950ec7b8e1127aa1229231b67d",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+      },
+      "../test/structures/test_delayedfunction.ts": {
+        "version": "febf11ff0d446e5773307691054f778e0d158de9b8dbd880a162a657caec42f1",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+      },
+      "../test/structures/test_lock.ts": {
+        "version": "33ddda185d17261b211016f6fd91e60fb9c39c135923ec051cb2f10fca932f12",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+      },
+      "../test/structures/test_messagededuplicator.ts": {
+        "version": "8c9bba6b682674bcab2090600370954d7a24a2fbf6c4badc150982e9423ef804",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+      },
+      "../test/structures/test_stringformatter.ts": {
+        "version": "66e2cf2b36c28b16f0508ed14c78257054362e33aab427d0a64703a2f2e4268b",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+      },
+      "../test/structures/test_timedcache.ts": {
+        "version": "5af0e0a359ed9b727e3ac47645f9e5d875797d6c66a623935464a12e4c41cbb1",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+      },
+      "../node_modules/@types/mocha/index.d.ts": {
+        "version": "c4c03cf65951d980ba618ae9601d10438730803fc9c8a1f7b34af8739981e205",
+        "signature": "c4c03cf65951d980ba618ae9601d10438730803fc9c8a1f7b34af8739981e205"
+      }
+    },
+    "options": {
+      "module": 1,
+      "moduleResolution": 2,
+      "target": 3,
+      "noImplicitAny": false,
+      "declaration": true,
+      "outDir": "./",
+      "types": [
+        "mocha",
+        "node"
+      ],
+      "strictNullChecks": true,
+      "allowSyntheticDefaultImports": true,
+      "incremental": true,
+      "sourceMap": true,
+      "allowJs": false,
+      "configFilePath": "../tsconfig.json"
+    },
+    "referencedMap": {
+      "../node_modules/@types/node/child_process.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/@types/node/cluster.d.ts": [
+        "../node_modules/@types/node/child_process.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/net.d.ts"
+      ],
+      "../node_modules/@types/node/crypto.d.ts": [
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/@types/node/dgram.d.ts": [
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/dns.d.ts",
+        "../node_modules/@types/node/events.d.ts"
+      ],
+      "../node_modules/@types/node/domain.d.ts": [
+        "../node_modules/@types/node/events.d.ts"
+      ],
+      "../node_modules/@types/node/events.d.ts": [
+        "../node_modules/@types/node/events.d.ts"
+      ],
+      "../node_modules/@types/node/fs.d.ts": [
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/url.d.ts"
+      ],
+      "../node_modules/@types/node/http.d.ts": [
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/url.d.ts",
+        "../node_modules/@types/node/net.d.ts"
+      ],
+      "../node_modules/@types/node/http2.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/tls.d.ts",
+        "../node_modules/@types/node/url.d.ts",
+        "../node_modules/@types/node/http.d.ts"
+      ],
+      "../node_modules/@types/node/https.d.ts": [
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/tls.d.ts",
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/url.d.ts"
+      ],
+      "../node_modules/@types/node/inspector.d.ts": [
+        "../node_modules/@types/node/events.d.ts"
+      ],
+      "../node_modules/@types/node/net.d.ts": [
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/dns.d.ts"
+      ],
+      "../node_modules/@types/node/perf_hooks.d.ts": [
+        "../node_modules/@types/node/async_hooks.d.ts"
+      ],
+      "../node_modules/@types/node/process.d.ts": [
+        "../node_modules/@types/node/tty.d.ts"
+      ],
+      "../node_modules/@types/node/readline.d.ts": [
+        "../node_modules/@types/node/events.d.ts"
+      ],
+      "../node_modules/@types/node/repl.d.ts": [
+        "../node_modules/@types/node/readline.d.ts",
+        "../node_modules/@types/node/vm.d.ts",
+        "../node_modules/@types/node/util.d.ts"
+      ],
+      "../node_modules/@types/node/stream.d.ts": [
+        "../node_modules/@types/node/events.d.ts"
+      ],
+      "../node_modules/@types/node/tls.d.ts": [
+        "../node_modules/@types/node/net.d.ts"
+      ],
+      "../node_modules/@types/node/tty.d.ts": [
+        "../node_modules/@types/node/net.d.ts"
+      ],
+      "../node_modules/@types/node/url.d.ts": [
+        "../node_modules/@types/node/querystring.d.ts"
+      ],
+      "../node_modules/@types/node/v8.d.ts": [
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/@types/node/worker_threads.d.ts": [
+        "../node_modules/@types/node/vm.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/fs.d.ts"
+      ],
+      "../node_modules/@types/node/zlib.d.ts": [
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/@types/node/ts3.6/base.d.ts": [
+        "../node_modules/@types/node/globals.d.ts",
+        "../node_modules/@types/node/async_hooks.d.ts",
+        "../node_modules/@types/node/buffer.d.ts",
+        "../node_modules/@types/node/child_process.d.ts",
+        "../node_modules/@types/node/cluster.d.ts",
+        "../node_modules/@types/node/console.d.ts",
+        "../node_modules/@types/node/constants.d.ts",
+        "../node_modules/@types/node/crypto.d.ts",
+        "../node_modules/@types/node/dgram.d.ts",
+        "../node_modules/@types/node/dns.d.ts",
+        "../node_modules/@types/node/domain.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/http2.d.ts",
+        "../node_modules/@types/node/https.d.ts",
+        "../node_modules/@types/node/inspector.d.ts",
+        "../node_modules/@types/node/module.d.ts",
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/os.d.ts",
+        "../node_modules/@types/node/path.d.ts",
+        "../node_modules/@types/node/perf_hooks.d.ts",
+        "../node_modules/@types/node/process.d.ts",
+        "../node_modules/@types/node/punycode.d.ts",
+        "../node_modules/@types/node/querystring.d.ts",
+        "../node_modules/@types/node/readline.d.ts",
+        "../node_modules/@types/node/repl.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/string_decoder.d.ts",
+        "../node_modules/@types/node/timers.d.ts",
+        "../node_modules/@types/node/tls.d.ts",
+        "../node_modules/@types/node/trace_events.d.ts",
+        "../node_modules/@types/node/tty.d.ts",
+        "../node_modules/@types/node/url.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/v8.d.ts",
+        "../node_modules/@types/node/vm.d.ts",
+        "../node_modules/@types/node/worker_threads.d.ts",
+        "../node_modules/@types/node/zlib.d.ts",
+        "../node_modules/@types/node/globals.global.d.ts",
+        "../node_modules/@types/node/wasi.d.ts"
+      ],
+      "../node_modules/@types/node/base.d.ts": [
+        "../node_modules/@types/node/ts3.6/base.d.ts",
+        "../node_modules/@types/node/assert.d.ts"
+      ],
+      "../node_modules/@types/node/index.d.ts": [
+        "../node_modules/@types/node/base.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/appservice/Intent.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/index.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/appservice/Appservice.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/appservice/MatrixBridge.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/appservice/Appservice.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/appservice/Intent.d.ts"
+      ],
+      "../node_modules/@types/express-serve-static-core/index.d.ts": [
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/range-parser/index.d.ts",
+        "../node_modules/@types/qs/index.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/appservice/Appservice.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/appservice/Intent.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/index.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/appservice/MatrixBridge.d.ts",
+        "../node_modules/@types/express-serve-static-core/index.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/storage/IStorageProvider.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/IFilter.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/MSC1772Space.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/MatrixClient.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/UnstableApis.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/MatrixClient.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/MSC1772Space.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/preprocessors/IPreprocessor.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/MatrixClient.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/index.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/identity/IdentityClient.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/OpenIDConnect.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/Policies.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/metrics/Metrics.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/Threepid.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/MatrixClient.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/IdentityServerModels.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/metrics/contexts.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/MatrixClient.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/appservice/Intent.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/identity/IdentityClient.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/metrics/IMetricListener.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/metrics/contexts.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/metrics/Metrics.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/metrics/IMetricListener.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/metrics/contexts.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/SynapseAdminApis.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/MatrixClient.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/AdminApis.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/MatrixClient.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/SynapseAdminApis.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/PresenceEvent.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/Event.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/Presence.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/PresenceEvent.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomEvent.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/Event.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/MembershipEvent.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomEvent.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/EventContext.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomEvent.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/MatrixClient.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/storage/IStorageProvider.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/strategies/JoinRoomStrategy.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/UnstableApis.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/preprocessors/IPreprocessor.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/metrics/Metrics.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/AdminApis.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/Presence.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/MembershipEvent.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/EventContext.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/PowerLevelBounds.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/identity/IdentityClient.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/OpenIDConnect.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/helpers/MentionPill.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/MatrixClient.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/helpers/ProfileCache.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/index.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/appservice/Appservice.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/helpers/UnpaddedBase64.d.ts": [
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/logging/ConsoleLogger.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/logging/ILogger.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/logging/RichConsoleLogger.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/logging/ILogger.d.ts",
+        "../node_modules/chalk/index.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/logging/LogService.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/logging/ILogger.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/mixins/AutojoinRoomsMixin.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/MatrixClient.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/appservice/Appservice.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/mixins/AutojoinUpgradedRoomsMixin.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/MatrixClient.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/appservice/Appservice.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/MatrixProfile.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/index.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/converter.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomEvent.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/MessageEvent.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomEvent.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/AliasesEvent.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomEvent.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/CanonicalAliasEvent.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomEvent.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/CreateEvent.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomEvent.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/JoinRulesEvent.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomEvent.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/PowerLevelsEvent.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomEvent.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RedactionEvent.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomEvent.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/PinnedEventsEvent.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomEvent.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomAvatarEvent.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomEvent.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/MessageEvent.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomNameEvent.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomEvent.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomTopicEvent.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomEvent.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/preprocessors/RichRepliesPreprocessor.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/MatrixClient.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/preprocessors/IPreprocessor.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/index.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/storage/MemoryStorageProvider.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/storage/IStorageProvider.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/IFilter.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/storage/IAppserviceStorageProvider.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/storage/SimpleFsStorageProvider.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/storage/IStorageProvider.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/IFilter.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/storage/IAppserviceStorageProvider.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/strategies/AppserviceJoinRoomStrategy.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/strategies/JoinRoomStrategy.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/appservice/Appservice.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/MatrixAuth.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/MatrixClient.d.ts"
+      ],
+      "../node_modules/@szmarczak/http-timer/dist/source/index.d.ts": [
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/got/node_modules/cacheable-lookup/index.d.ts": [
+        "../node_modules/@types/node/dns.d.ts",
+        "../node_modules/@types/node/http.d.ts"
+      ],
+      "../node_modules/@types/keyv/index.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/@types/responselike/index.d.ts": [
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/@types/cacheable-request/index.d.ts": [
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/url.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/keyv/index.d.ts",
+        "../node_modules/@types/http-cache-semantics/index.d.ts",
+        "../node_modules/@types/responselike/index.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/got/dist/source/core/utils/timed-out.d.ts": [
+        "../node_modules/@types/node/http.d.ts"
+      ],
+      "../node_modules/got/dist/source/core/utils/options-to-url.d.ts": [
+        "../node_modules/@types/node/url.d.ts"
+      ],
+      "../node_modules/got/dist/source/core/index.d.ts": [
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/url.d.ts",
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/tls.d.ts",
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/https.d.ts",
+        "../node_modules/@szmarczak/http-timer/dist/source/index.d.ts",
+        "../node_modules/got/node_modules/cacheable-lookup/index.d.ts",
+        "../node_modules/@types/cacheable-request/index.d.ts",
+        "../node_modules/@types/responselike/index.d.ts",
+        "../node_modules/got/dist/source/core/utils/timed-out.d.ts",
+        "../node_modules/got/dist/source/core/utils/options-to-url.d.ts",
+        "../node_modules/got/dist/source/core/utils/dns-ip-version.d.ts",
+        "../node_modules/got/dist/source/as-promise/types.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/got/dist/source/as-promise/types.d.ts": [
+        "../node_modules/p-cancelable/index.d.ts",
+        "../node_modules/got/dist/source/core/index.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/got/dist/source/as-promise/index.d.ts": [
+        "../node_modules/got/dist/source/as-promise/types.d.ts"
+      ],
+      "../node_modules/got/dist/source/types.d.ts": [
+        "../node_modules/@types/node/url.d.ts",
+        "../node_modules/p-cancelable/index.d.ts",
+        "../node_modules/got/dist/source/as-promise/index.d.ts",
+        "../node_modules/got/dist/source/core/index.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/got/dist/source/create.d.ts": [
+        "../node_modules/got/dist/source/types.d.ts"
+      ],
+      "../node_modules/got/dist/source/index.d.ts": [
+        "../node_modules/got/dist/source/create.d.ts",
+        "../node_modules/got/dist/source/as-promise/index.d.ts",
+        "../node_modules/got/dist/source/types.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/request.d.ts": [
+        "../node_modules/got/dist/source/index.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/PantalaimonClient.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/storage/IStorageProvider.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/MatrixClient.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/SynchronousMatrixClient.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/MatrixClient.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/index.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/appservice/Appservice.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/appservice/Intent.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/appservice/MatrixBridge.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/appservice/http_responses.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/helpers/RichReply.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/helpers/MentionPill.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/helpers/Permalinks.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/helpers/MatrixGlob.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/helpers/ProfileCache.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/helpers/MatrixEntity.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/helpers/UnpaddedBase64.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/logging/ConsoleLogger.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/logging/RichConsoleLogger.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/logging/ILogger.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/logging/LogService.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/metrics/contexts.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/metrics/names.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/metrics/decorators.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/metrics/IMetricListener.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/metrics/Metrics.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/mixins/AutojoinRoomsMixin.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/mixins/AutojoinUpgradedRoomsMixin.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/Presence.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/MatrixProfile.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/EventContext.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/PowerLevelBounds.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/OpenIDConnect.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/Policies.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/Threepid.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/MSC1772Space.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/IdentityServerModels.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/EventKind.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/converter.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/InvalidEventError.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/Event.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomEvent.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/PresenceEvent.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/MembershipEvent.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/MessageEvent.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/AliasesEvent.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/CanonicalAliasEvent.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/CreateEvent.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/JoinRulesEvent.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/PowerLevelsEvent.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RedactionEvent.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/PinnedEventsEvent.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomAvatarEvent.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomNameEvent.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomTopicEvent.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/preprocessors/IPreprocessor.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/preprocessors/RichRepliesPreprocessor.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/storage/IAppserviceStorageProvider.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/storage/IStorageProvider.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/storage/MemoryStorageProvider.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/storage/SimpleFsStorageProvider.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/strategies/AppserviceJoinRoomStrategy.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/strategies/JoinRoomStrategy.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/identity/IdentityClient.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/IFilter.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/MatrixClient.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/MatrixAuth.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/UnstableApis.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/AdminApis.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/request.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/PantalaimonClient.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/SynchronousMatrixClient.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/SynapseAdminApis.d.ts"
+      ],
+      "../node_modules/@types/serve-static/index.d.ts": [
+        "../node_modules/@types/mime/index.d.ts",
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/@types/connect/index.d.ts": [
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/@types/body-parser/index.d.ts": [
+        "../node_modules/@types/connect/index.d.ts",
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/@types/express/index.d.ts": [
+        "../node_modules/@types/body-parser/index.d.ts",
+        "../node_modules/@types/serve-static/index.d.ts",
+        "../node_modules/@types/express-serve-static-core/index.d.ts",
+        "../node_modules/@types/qs/index.d.ts"
+      ],
+      "../src/db/connector.ts": [
+        "../node_modules/prom-client/index.d.ts"
+      ],
+      "../node_modules/winston-transport/index.d.ts": [
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/logform/index.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/winston/lib/winston/config/index.d.ts": [
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/winston/lib/winston/transports/index.d.ts": [
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/winston-transport/index.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/winston/index.d.ts": [
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/logform/index.d.ts",
+        "../node_modules/winston-transport/index.d.ts",
+        "../node_modules/winston/lib/winston/config/index.d.ts",
+        "../node_modules/winston/lib/winston/transports/index.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/winston-daily-rotate-file/index.d.ts": [
+        "../node_modules/winston-transport/index.d.ts"
+      ],
+      "../src/log.ts": [
+        "../node_modules/winston/index.d.ts",
+        "../node_modules/winston-transport/index.d.ts",
+        "../src/config.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/winston-daily-rotate-file/index.d.ts"
+      ],
+      "../src/interfaces.ts": [
+        "../src/structures/stringformatter.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/index.d.ts"
+      ],
+      "../src/db/interfaces.ts": [
+        "../src/interfaces.ts"
+      ],
+      "../src/db/emotestore.ts": [
+        "../src/db/connector.ts",
+        "../src/log.ts",
+        "../src/db/interfaces.ts"
+      ],
+      "../node_modules/file-type/index.d.ts": [
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/hasha/node_modules/type-fest/source/merge.d.ts": [
+        "../node_modules/hasha/node_modules/type-fest/source/except.d.ts"
+      ],
+      "../node_modules/hasha/node_modules/type-fest/source/require-at-least-one.d.ts": [
+        "../node_modules/hasha/node_modules/type-fest/source/except.d.ts"
+      ],
+      "../node_modules/hasha/node_modules/type-fest/source/partial-deep.d.ts": [
+        "../node_modules/hasha/node_modules/type-fest/source/basic.d.ts"
+      ],
+      "../node_modules/hasha/node_modules/type-fest/source/readonly-deep.d.ts": [
+        "../node_modules/hasha/node_modules/type-fest/source/basic.d.ts"
+      ],
+      "../node_modules/hasha/node_modules/type-fest/source/literal-union.d.ts": [
+        "../node_modules/hasha/node_modules/type-fest/source/basic.d.ts"
+      ],
+      "../node_modules/hasha/node_modules/type-fest/source/package-json.d.ts": [
+        "../node_modules/hasha/node_modules/type-fest/index.d.ts"
+      ],
+      "../node_modules/hasha/node_modules/type-fest/index.d.ts": [
+        "../node_modules/hasha/node_modules/type-fest/source/basic.d.ts",
+        "../node_modules/hasha/node_modules/type-fest/source/except.d.ts",
+        "../node_modules/hasha/node_modules/type-fest/source/mutable.d.ts",
+        "../node_modules/hasha/node_modules/type-fest/source/merge.d.ts",
+        "../node_modules/hasha/node_modules/type-fest/source/merge-exclusive.d.ts",
+        "../node_modules/hasha/node_modules/type-fest/source/require-at-least-one.d.ts",
+        "../node_modules/hasha/node_modules/type-fest/source/require-exactly-one.d.ts",
+        "../node_modules/hasha/node_modules/type-fest/source/partial-deep.d.ts",
+        "../node_modules/hasha/node_modules/type-fest/source/readonly-deep.d.ts",
+        "../node_modules/hasha/node_modules/type-fest/source/literal-union.d.ts",
+        "../node_modules/hasha/node_modules/type-fest/source/promisable.d.ts",
+        "../node_modules/hasha/node_modules/type-fest/source/opaque.d.ts",
+        "../node_modules/hasha/node_modules/type-fest/source/set-optional.d.ts",
+        "../node_modules/hasha/node_modules/type-fest/source/set-required.d.ts",
+        "../node_modules/hasha/node_modules/type-fest/source/package-json.d.ts"
+      ],
+      "../node_modules/hasha/index.d.ts": [
+        "../node_modules/hasha/node_modules/type-fest/index.d.ts",
+        "../node_modules/@types/node/crypto.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../src/util.ts": [
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/https.d.ts",
+        "../node_modules/file-type/index.d.ts",
+        "../node_modules/@types/node/buffer.d.ts",
+        "../node_modules/hasha/index.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/index.d.ts",
+        "../src/log.ts",
+        "../src/db/interfaces.ts",
+        "../src/interfaces.ts",
+        "../src/structures/stringformatter.ts",
+        "../node_modules/@types/node/child_process.d.ts",
+        "../node_modules/got/dist/source/index.d.ts"
+      ],
+      "../src/emotesyncroniser.ts": [
+        "../src/puppetbridge.ts",
+        "../src/db/emotestore.ts",
+        "../src/util.ts",
+        "../src/interfaces.ts",
+        "../src/log.ts",
+        "../src/structures/lock.ts"
+      ],
+      "../src/db/eventstore.ts": [
+        "../src/db/connector.ts",
+        "../src/log.ts"
+      ],
+      "../src/eventsyncroniser.ts": [
+        "../src/puppetbridge.ts",
+        "../src/log.ts",
+        "../src/db/eventstore.ts",
+        "../src/interfaces.ts"
+      ],
+      "../src/db/roomstore.ts": [
+        "../src/db/connector.ts",
+        "../src/log.ts",
+        "../src/structures/timedcache.ts",
+        "../src/db/interfaces.ts"
+      ],
+      "../src/roomsyncroniser.ts": [
+        "../src/puppetbridge.ts",
+        "../src/interfaces.ts",
+        "../src/util.ts",
+        "../src/log.ts",
+        "../src/db/roomstore.ts",
+        "../src/db/interfaces.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/index.d.ts",
+        "../src/structures/lock.ts",
+        "../node_modules/@types/node/buffer.d.ts",
+        "../src/structures/stringformatter.ts"
+      ],
+      "../src/db/userstore.ts": [
+        "../src/db/connector.ts",
+        "../src/log.ts",
+        "../src/structures/timedcache.ts",
+        "../src/db/interfaces.ts"
+      ],
+      "../src/db/puppetstore.ts": [
+        "../src/db/connector.ts",
+        "../src/log.ts",
+        "../src/structures/timedcache.ts",
+        "../src/structures/lock.ts",
+        "../src/interfaces.ts"
+      ],
+      "../src/provisioner.ts": [
+        "../node_modules/@types/node/crypto.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/index.d.ts",
+        "../src/puppetbridge.ts",
+        "../src/db/puppetstore.ts",
+        "../src/log.ts",
+        "../src/util.ts",
+        "../src/interfaces.ts"
+      ],
+      "../src/usersyncroniser.ts": [
+        "../src/puppetbridge.ts",
+        "../src/interfaces.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/index.d.ts",
+        "../src/util.ts",
+        "../src/log.ts",
+        "../src/db/userstore.ts",
+        "../src/db/interfaces.ts",
+        "../src/structures/lock.ts",
+        "../src/provisioner.ts",
+        "../src/structures/stringformatter.ts",
+        "../node_modules/prom-client/index.d.ts"
+      ],
+      "../src/db/groupstore.ts": [
+        "../src/db/connector.ts",
+        "../src/log.ts",
+        "../src/structures/timedcache.ts",
+        "../src/db/interfaces.ts"
+      ],
+      "../src/groupsyncroniser.ts": [
+        "../src/puppetbridge.ts",
+        "../src/interfaces.ts",
+        "../src/db/groupstore.ts",
+        "../src/db/interfaces.ts",
+        "../src/log.ts",
+        "../src/structures/lock.ts",
+        "../src/util.ts",
+        "../src/structures/stringformatter.ts"
+      ],
+      "../src/db/reactionstore.ts": [
+        "../src/db/connector.ts",
+        "../src/log.ts"
+      ],
+      "../src/db/schema/dbschema.ts": [
+        "../src/store.ts"
+      ],
+      "../src/db/sqlite3.ts": [
+        "../src/log.ts",
+        "../src/db/connector.ts",
+        "../node_modules/prom-client/index.d.ts"
+      ],
+      "../node_modules/pg-promise/typescript/pg-subset.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/tls.d.ts"
+      ],
+      "../node_modules/pg-promise/typescript/pg-promise.d.ts": [
+        "../node_modules/pg-promise/typescript/pg-subset.d.ts",
+        "../node_modules/pg-minify/typescript/pg-minify.d.ts",
+        "../node_modules/spex/typescript/spex.d.ts"
+      ],
+      "../src/db/postgres.ts": [
+        "../node_modules/pg-promise/typescript/pg-promise.d.ts",
+        "../src/log.ts",
+        "../src/db/connector.ts",
+        "../node_modules/prom-client/index.d.ts"
+      ],
+      "../src/store.ts": [
+        "../src/db/schema/dbschema.ts",
+        "../src/db/sqlite3.ts",
+        "../src/db/postgres.ts",
+        "../src/log.ts",
+        "../src/config.ts",
+        "../src/db/userstore.ts",
+        "../src/db/roomstore.ts",
+        "../src/db/groupstore.ts",
+        "../src/db/puppetstore.ts",
+        "../src/db/eventstore.ts",
+        "../src/db/reactionstore.ts",
+        "../src/db/emotestore.ts",
+        "../src/db/connector.ts",
+        "../src/util.ts",
+        "../src/puppetbridge.ts"
+      ],
+      "../src/joinstrategy.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/index.d.ts",
+        "../src/puppetbridge.ts",
+        "../src/log.ts"
+      ],
+      "../src/provisioningapi.ts": [
+        "../src/puppetbridge.ts",
+        "../node_modules/@types/express/index.d.ts",
+        "../src/db/puppetstore.ts"
+      ],
+      "../src/presencehandler.ts": [
+        "../src/puppetbridge.ts",
+        "../src/log.ts",
+        "../src/config.ts",
+        "../src/interfaces.ts"
+      ],
+      "../src/structures/messagededuplicator.ts": [
+        "../src/structures/lock.ts",
+        "../node_modules/expire-set/lib/src/index.d.ts"
+      ],
+      "../src/typinghandler.ts": [
+        "../src/puppetbridge.ts",
+        "../src/log.ts",
+        "../node_modules/expire-set/lib/src/index.d.ts",
+        "../src/structures/messagededuplicator.ts"
+      ],
+      "../src/reactionhandler.ts": [
+        "../src/puppetbridge.ts",
+        "../src/interfaces.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/index.d.ts",
+        "../src/db/reactionstore.ts",
+        "../src/log.ts",
+        "../src/structures/messagededuplicator.ts"
+      ],
+      "../src/matrixeventhandler.ts": [
+        "../src/log.ts",
+        "../src/puppetbridge.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/index.d.ts",
+        "../src/interfaces.ts",
+        "../node_modules/prom-client/index.d.ts",
+        "../src/db/puppetstore.ts"
+      ],
+      "../node_modules/blurhash/dist/index.d.ts": [
+        "../node_modules/blurhash/dist/decode.d.ts",
+        "../node_modules/blurhash/dist/encode.d.ts",
+        "../node_modules/blurhash/dist/error.d.ts"
+      ],
+      "../node_modules/canvas/types/index.d.ts": [
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../src/remoteeventhandler.ts": [
+        "../src/log.ts",
+        "../src/puppetbridge.ts",
+        "../src/util.ts",
+        "../src/structures/timedcache.ts",
+        "../src/interfaces.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/index.d.ts",
+        "../node_modules/prom-client/index.d.ts",
+        "../node_modules/blurhash/dist/index.d.ts",
+        "../node_modules/canvas/types/index.d.ts"
+      ],
+      "../src/namespacehandler.ts": [
+        "../src/log.ts",
+        "../src/util.ts",
+        "../src/puppetbridge.ts",
+        "../src/interfaces.ts"
+      ],
+      "../src/puppetbridge.ts": [
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/index.d.ts",
+        "../node_modules/prom-client/index.d.ts",
+        "../node_modules/@types/express/index.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../src/emotesyncroniser.ts",
+        "../src/eventsyncroniser.ts",
+        "../src/roomsyncroniser.ts",
+        "../src/usersyncroniser.ts",
+        "../src/groupsyncroniser.ts",
+        "../src/config.ts",
+        "../src/util.ts",
+        "../src/log.ts",
+        "../src/db/userstore.ts",
+        "../src/db/roomstore.ts",
+        "../src/db/groupstore.ts",
+        "../src/db/puppetstore.ts",
+        "../src/db/eventstore.ts",
+        "../src/db/reactionstore.ts",
+        "../src/provisioner.ts",
+        "../src/store.ts",
+        "../src/structures/lock.ts",
+        "../src/joinstrategy.ts",
+        "../src/botprovisioner.ts",
+        "../src/provisioningapi.ts",
+        "../src/presencehandler.ts",
+        "../src/typinghandler.ts",
+        "../src/reactionhandler.ts",
+        "../src/matrixeventhandler.ts",
+        "../src/remoteeventhandler.ts",
+        "../src/namespacehandler.ts",
+        "../src/structures/delayedfunction.ts",
+        "../src/interfaces.ts"
+      ],
+      "../src/botprovisioner.ts": [
+        "../src/puppetbridge.ts",
+        "../src/interfaces.ts",
+        "../src/provisioner.ts",
+        "../src/db/puppetstore.ts",
+        "../src/log.ts",
+        "../src/structures/timedcache.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/index.d.ts"
+      ],
+      "../src/index.ts": [
+        "../src/puppetbridge.ts",
+        "../src/interfaces.ts",
+        "../src/log.ts",
+        "../src/util.ts",
+        "../src/structures/lock.ts",
+        "../src/structures/messagededuplicator.ts",
+        "../src/store.ts",
+        "../src/db/schema/dbschema.ts",
+        "../src/botprovisioner.ts",
+        "../src/provisioningapi.ts",
+        "../src/structures/stringformatter.ts"
+      ],
+      "../src/db/schema/v1.ts": [
+        "../src/db/schema/dbschema.ts",
+        "../src/store.ts"
+      ],
+      "../src/db/schema/v10.ts": [
+        "../src/db/schema/dbschema.ts",
+        "../src/store.ts"
+      ],
+      "../src/db/schema/v11.ts": [
+        "../src/db/schema/dbschema.ts",
+        "../src/store.ts"
+      ],
+      "../src/db/schema/v12.ts": [
+        "../src/db/schema/dbschema.ts",
+        "../src/store.ts"
+      ],
+      "../src/db/schema/v13.ts": [
+        "../src/db/schema/dbschema.ts",
+        "../src/store.ts",
+        "../src/log.ts"
+      ],
+      "../src/db/schema/v14.ts": [
+        "../src/db/schema/dbschema.ts",
+        "../src/store.ts"
+      ],
+      "../src/db/schema/v15.ts": [
+        "../src/db/schema/dbschema.ts",
+        "../src/store.ts"
+      ],
+      "../src/db/schema/v16.ts": [
+        "../src/db/schema/dbschema.ts",
+        "../src/store.ts",
+        "../src/log.ts"
+      ],
+      "../src/db/schema/v2.ts": [
+        "../src/db/schema/dbschema.ts",
+        "../src/store.ts"
+      ],
+      "../src/db/schema/v3.ts": [
+        "../src/db/schema/dbschema.ts",
+        "../src/store.ts"
+      ],
+      "../src/db/schema/v4.ts": [
+        "../src/db/schema/dbschema.ts",
+        "../src/store.ts"
+      ],
+      "../src/db/schema/v5.ts": [
+        "../src/db/schema/dbschema.ts",
+        "../src/store.ts"
+      ],
+      "../src/db/schema/v6.ts": [
+        "../src/db/schema/dbschema.ts",
+        "../src/store.ts"
+      ],
+      "../src/db/schema/v7.ts": [
+        "../src/db/schema/dbschema.ts",
+        "../src/store.ts"
+      ],
+      "../src/db/schema/v8.ts": [
+        "../src/db/schema/dbschema.ts",
+        "../src/store.ts"
+      ],
+      "../src/db/schema/v9.ts": [
+        "../src/db/schema/dbschema.ts",
+        "../src/store.ts"
+      ],
+      "../test/config.ts": [
+        "../node_modules/@types/node/process.d.ts",
+        "../src/log.ts"
+      ],
+      "../test/test_config.ts": [
+        "../node_modules/@types/chai/index.d.ts",
+        "../src/config.ts"
+      ],
+      "../test/test_joinstrategy.ts": [
+        "../node_modules/@types/chai/index.d.ts",
+        "../src/joinstrategy.ts"
+      ],
+      "../test/test_log.ts": [
+        "../node_modules/@types/chai/index.d.ts",
+        "../src/log.ts"
+      ],
+      "../test/test_matrixeventhandler.ts": [
+        "../node_modules/@types/chai/index.d.ts",
+        "../src/matrixeventhandler.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/index.d.ts",
+        "../node_modules/prom-client/index.d.ts",
+        "../src/structures/messagededuplicator.ts"
+      ],
+      "../test/test_presencehandler.ts": [
+        "../node_modules/@types/chai/index.d.ts",
+        "../src/presencehandler.ts"
+      ],
+      "../test/test_provisioner.ts": [
+        "../node_modules/@types/chai/index.d.ts"
+      ],
+      "../test/test_reactionhandler.ts": [
+        "../node_modules/@types/chai/index.d.ts",
+        "../src/reactionhandler.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/index.d.ts"
+      ],
+      "../test/test_remoteeventhandler.ts": [
+        "../node_modules/@types/chai/index.d.ts",
+        "../node_modules/prom-client/index.d.ts",
+        "../src/structures/messagededuplicator.ts"
+      ],
+      "../test/test_store.ts": [
+        "../node_modules/@types/chai/index.d.ts",
+        "../src/store.ts"
+      ],
+      "../test/test_typinghandler.ts": [
+        "../node_modules/@types/chai/index.d.ts",
+        "../src/typinghandler.ts",
+        "../src/util.ts"
+      ],
+      "../test/test_util.ts": [
+        "../node_modules/@types/chai/index.d.ts",
+        "../src/util.ts"
+      ],
+      "../test/db/test_eventstore.ts": [
+        "../node_modules/@types/chai/index.d.ts",
+        "../src/db/eventstore.ts",
+        "../src/store.ts",
+        "../node_modules/prom-client/index.d.ts"
+      ],
+      "../test/db/test_groupstore.ts": [
+        "../node_modules/@types/chai/index.d.ts",
+        "../src/db/groupstore.ts",
+        "../src/store.ts"
+      ],
+      "../test/db/test_puppetstore.ts": [
+        "../node_modules/@types/chai/index.d.ts",
+        "../src/db/puppetstore.ts",
+        "../src/store.ts"
+      ],
+      "../test/db/test_reactionstore.ts": [
+        "../node_modules/@types/chai/index.d.ts",
+        "../src/db/reactionstore.ts",
+        "../src/store.ts"
+      ],
+      "../test/db/test_roomstore.ts": [
+        "../node_modules/@types/chai/index.d.ts",
+        "../src/db/roomstore.ts",
+        "../src/store.ts"
+      ],
+      "../test/db/test_userstore.ts": [
+        "../node_modules/@types/chai/index.d.ts",
+        "../src/db/userstore.ts",
+        "../src/store.ts"
+      ],
+      "../test/structures/test_delayedfunction.ts": [
+        "../node_modules/@types/chai/index.d.ts",
+        "../src/structures/delayedfunction.ts",
+        "../src/util.ts"
+      ],
+      "../test/structures/test_lock.ts": [
+        "../node_modules/@types/chai/index.d.ts",
+        "../src/structures/lock.ts",
+        "../src/util.ts"
+      ],
+      "../test/structures/test_messagededuplicator.ts": [
+        "../node_modules/@types/chai/index.d.ts",
+        "../src/structures/messagededuplicator.ts",
+        "../src/util.ts"
+      ],
+      "../test/structures/test_stringformatter.ts": [
+        "../node_modules/@types/chai/index.d.ts",
+        "../src/structures/stringformatter.ts"
+      ],
+      "../test/structures/test_timedcache.ts": [
+        "../node_modules/@types/chai/index.d.ts",
+        "../src/structures/timedcache.ts",
+        "../src/util.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "../node_modules/@types/node/ts3.6/base.d.ts": [
+        "../node_modules/@types/node/globals.d.ts",
+        "../node_modules/@types/node/async_hooks.d.ts",
+        "../node_modules/@types/node/buffer.d.ts",
+        "../node_modules/@types/node/child_process.d.ts",
+        "../node_modules/@types/node/cluster.d.ts",
+        "../node_modules/@types/node/console.d.ts",
+        "../node_modules/@types/node/constants.d.ts",
+        "../node_modules/@types/node/crypto.d.ts",
+        "../node_modules/@types/node/dgram.d.ts",
+        "../node_modules/@types/node/dns.d.ts",
+        "../node_modules/@types/node/domain.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/http2.d.ts",
+        "../node_modules/@types/node/https.d.ts",
+        "../node_modules/@types/node/inspector.d.ts",
+        "../node_modules/@types/node/module.d.ts",
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/os.d.ts",
+        "../node_modules/@types/node/path.d.ts",
+        "../node_modules/@types/node/perf_hooks.d.ts",
+        "../node_modules/@types/node/process.d.ts",
+        "../node_modules/@types/node/punycode.d.ts",
+        "../node_modules/@types/node/querystring.d.ts",
+        "../node_modules/@types/node/readline.d.ts",
+        "../node_modules/@types/node/repl.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/string_decoder.d.ts",
+        "../node_modules/@types/node/timers.d.ts",
+        "../node_modules/@types/node/tls.d.ts",
+        "../node_modules/@types/node/trace_events.d.ts",
+        "../node_modules/@types/node/tty.d.ts",
+        "../node_modules/@types/node/url.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/v8.d.ts",
+        "../node_modules/@types/node/vm.d.ts",
+        "../node_modules/@types/node/worker_threads.d.ts",
+        "../node_modules/@types/node/zlib.d.ts",
+        "../node_modules/@types/node/globals.global.d.ts",
+        "../node_modules/@types/node/wasi.d.ts"
+      ],
+      "../node_modules/@types/node/base.d.ts": [
+        "../node_modules/@types/node/ts3.6/base.d.ts",
+        "../node_modules/@types/node/assert.d.ts"
+      ],
+      "../node_modules/@types/node/index.d.ts": [
+        "../node_modules/@types/node/base.d.ts"
+      ],
+      "../node_modules/hasha/index.d.ts": [
+        "../node_modules/hasha/node_modules/type-fest/index.d.ts",
+        "../node_modules/@types/node/crypto.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../src/util.ts": [
+        "../node_modules/got/dist/source/index.d.ts",
+        "../src/db/interfaces.ts",
+        "../src/interfaces.ts"
+      ],
+      "../src/index.ts": [
+        "../src/puppetbridge.ts",
+        "../src/interfaces.ts",
+        "../src/log.ts",
+        "../src/util.ts",
+        "../src/structures/lock.ts",
+        "../src/structures/messagededuplicator.ts",
+        "../src/store.ts",
+        "../src/db/schema/dbschema.ts",
+        "../src/botprovisioner.ts",
+        "../src/provisioningapi.ts",
+        "../src/structures/stringformatter.ts"
+      ],
+      "../src/puppetbridge.ts": [
+        "../src/interfaces.ts",
+        "../node_modules/prom-client/index.d.ts",
+        "../src/emotesyncroniser.ts",
+        "../src/eventsyncroniser.ts",
+        "../src/roomsyncroniser.ts",
+        "../src/usersyncroniser.ts",
+        "../src/groupsyncroniser.ts",
+        "../src/config.ts",
+        "../src/provisioner.ts",
+        "../src/store.ts",
+        "../src/structures/delayedfunction.ts",
+        "../src/botprovisioner.ts",
+        "../src/provisioningapi.ts",
+        "../src/typinghandler.ts",
+        "../src/presencehandler.ts",
+        "../src/reactionhandler.ts",
+        "../src/namespacehandler.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/index.d.ts",
+        "../src/db/userstore.ts",
+        "../src/db/roomstore.ts",
+        "../src/db/groupstore.ts",
+        "../src/db/puppetstore.ts",
+        "../src/db/eventstore.ts",
+        "../src/db/reactionstore.ts",
+        "../node_modules/@types/node/events.d.ts"
+      ],
+      "../src/botprovisioner.ts": [
+        "../src/puppetbridge.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/index.d.ts",
+        "../src/interfaces.ts"
+      ],
+      "../src/namespacehandler.ts": [
+        "../src/puppetbridge.ts",
+        "../src/interfaces.ts"
+      ],
+      "../src/remoteeventhandler.ts": [
+        "../src/puppetbridge.ts",
+        "../src/interfaces.ts"
+      ],
+      "../src/matrixeventhandler.ts": [
+        "../src/puppetbridge.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/index.d.ts",
+        "../src/interfaces.ts"
+      ],
+      "../src/reactionhandler.ts": [
+        "../src/structures/messagededuplicator.ts",
+        "../src/puppetbridge.ts",
+        "../src/interfaces.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/index.d.ts"
+      ],
+      "../src/typinghandler.ts": [
+        "../src/structures/messagededuplicator.ts",
+        "../src/puppetbridge.ts"
+      ],
+      "../src/presencehandler.ts": [
+        "../src/puppetbridge.ts",
+        "../src/config.ts",
+        "../src/interfaces.ts"
+      ],
+      "../src/provisioningapi.ts": [
+        "../node_modules/@types/express/index.d.ts",
+        "../src/puppetbridge.ts"
+      ],
+      "../src/joinstrategy.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/index.d.ts",
+        "../src/puppetbridge.ts"
+      ],
+      "../src/store.ts": [
+        "../src/puppetbridge.ts",
+        "../src/db/connector.ts",
+        "../src/config.ts",
+        "../src/db/roomstore.ts",
+        "../src/db/userstore.ts",
+        "../src/db/groupstore.ts",
+        "../src/db/puppetstore.ts",
+        "../src/db/eventstore.ts",
+        "../src/db/reactionstore.ts",
+        "../src/db/emotestore.ts",
+        "../src/db/schema/dbschema.ts"
+      ],
+      "../src/db/schema/v9.ts": [
+        "../src/store.ts",
+        "../src/db/schema/dbschema.ts"
+      ],
+      "../src/db/schema/v8.ts": [
+        "../src/store.ts",
+        "../src/db/schema/dbschema.ts"
+      ],
+      "../src/db/schema/v7.ts": [
+        "../src/store.ts",
+        "../src/db/schema/dbschema.ts"
+      ],
+      "../src/db/schema/v6.ts": [
+        "../src/store.ts",
+        "../src/db/schema/dbschema.ts"
+      ],
+      "../src/db/schema/v5.ts": [
+        "../src/store.ts",
+        "../src/db/schema/dbschema.ts"
+      ],
+      "../src/db/schema/v4.ts": [
+        "../src/store.ts",
+        "../src/db/schema/dbschema.ts"
+      ],
+      "../src/db/schema/v3.ts": [
+        "../src/store.ts",
+        "../src/db/schema/dbschema.ts"
+      ],
+      "../src/db/schema/v2.ts": [
+        "../src/store.ts",
+        "../src/db/schema/dbschema.ts"
+      ],
+      "../src/db/schema/v16.ts": [
+        "../src/store.ts",
+        "../src/db/schema/dbschema.ts"
+      ],
+      "../src/db/schema/v15.ts": [
+        "../src/store.ts",
+        "../src/db/schema/dbschema.ts"
+      ],
+      "../src/db/schema/v14.ts": [
+        "../src/store.ts",
+        "../src/db/schema/dbschema.ts"
+      ],
+      "../src/db/schema/v13.ts": [
+        "../src/store.ts",
+        "../src/db/schema/dbschema.ts"
+      ],
+      "../src/db/schema/v12.ts": [
+        "../src/store.ts",
+        "../src/db/schema/dbschema.ts"
+      ],
+      "../src/db/schema/v11.ts": [
+        "../src/store.ts",
+        "../src/db/schema/dbschema.ts"
+      ],
+      "../src/db/schema/v10.ts": [
+        "../src/store.ts",
+        "../src/db/schema/dbschema.ts"
+      ],
+      "../src/db/schema/v1.ts": [
+        "../src/store.ts",
+        "../src/db/schema/dbschema.ts"
+      ],
+      "../src/db/schema/dbschema.ts": [
+        "../src/store.ts"
+      ],
+      "../src/groupsyncroniser.ts": [
+        "../src/puppetbridge.ts",
+        "../src/interfaces.ts",
+        "../src/db/interfaces.ts"
+      ],
+      "../src/usersyncroniser.ts": [
+        "../src/puppetbridge.ts",
+        "../src/provisioner.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/index.d.ts",
+        "../src/interfaces.ts",
+        "../src/db/interfaces.ts"
+      ],
+      "../src/provisioner.ts": [
+        "../src/db/puppetstore.ts",
+        "../src/puppetbridge.ts",
+        "../src/interfaces.ts"
+      ],
+      "../src/roomsyncroniser.ts": [
+        "../src/puppetbridge.ts",
+        "../src/interfaces.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/index.d.ts",
+        "../src/db/interfaces.ts"
+      ],
+      "../src/eventsyncroniser.ts": [
+        "../src/puppetbridge.ts",
+        "../src/interfaces.ts"
+      ],
+      "../src/emotesyncroniser.ts": [
+        "../src/puppetbridge.ts",
+        "../src/interfaces.ts"
+      ],
+      "../node_modules/file-type/index.d.ts": [
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/winston/index.d.ts": [
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/logform/index.d.ts",
+        "../node_modules/winston-transport/index.d.ts",
+        "../node_modules/winston/lib/winston/config/index.d.ts",
+        "../node_modules/winston/lib/winston/transports/index.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../src/log.ts": [
+        "../node_modules/winston-daily-rotate-file/index.d.ts",
+        "../src/config.ts"
+      ],
+      "../src/db/postgres.ts": [
+        "../node_modules/prom-client/index.d.ts",
+        "../src/db/connector.ts"
+      ],
+      "../src/db/sqlite3.ts": [
+        "../node_modules/prom-client/index.d.ts",
+        "../src/db/connector.ts"
+      ],
+      "../src/db/reactionstore.ts": [
+        "../src/db/connector.ts"
+      ],
+      "../src/db/groupstore.ts": [
+        "../src/db/connector.ts",
+        "../src/db/interfaces.ts"
+      ],
+      "../src/db/puppetstore.ts": [
+        "../src/interfaces.ts",
+        "../src/db/connector.ts"
+      ],
+      "../src/db/userstore.ts": [
+        "../src/db/connector.ts",
+        "../src/db/interfaces.ts"
+      ],
+      "../src/db/roomstore.ts": [
+        "../src/db/connector.ts",
+        "../src/db/interfaces.ts"
+      ],
+      "../src/db/eventstore.ts": [
+        "../src/db/connector.ts"
+      ],
+      "../src/db/emotestore.ts": [
+        "../src/db/connector.ts",
+        "../src/db/interfaces.ts"
+      ],
+      "../node_modules/winston/lib/winston/transports/index.d.ts": [
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/winston-transport/index.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/winston/lib/winston/config/index.d.ts": [
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/winston-transport/index.d.ts": [
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/logform/index.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/winston-daily-rotate-file/index.d.ts": [
+        "../node_modules/winston-transport/index.d.ts"
+      ],
+      "../node_modules/@types/body-parser/index.d.ts": [
+        "../node_modules/@types/connect/index.d.ts",
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/@types/express/index.d.ts": [
+        "../node_modules/@types/body-parser/index.d.ts",
+        "../node_modules/@types/serve-static/index.d.ts",
+        "../node_modules/@types/express-serve-static-core/index.d.ts",
+        "../node_modules/@types/qs/index.d.ts"
+      ],
+      "../node_modules/@types/connect/index.d.ts": [
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/@types/serve-static/index.d.ts": [
+        "../node_modules/@types/mime/index.d.ts",
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/got/dist/source/types.d.ts": [
+        "../node_modules/@types/node/url.d.ts",
+        "../node_modules/p-cancelable/index.d.ts",
+        "../node_modules/got/dist/source/as-promise/index.d.ts",
+        "../node_modules/got/dist/source/core/index.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/got/dist/source/index.d.ts": [
+        "../node_modules/got/dist/source/create.d.ts",
+        "../node_modules/got/dist/source/as-promise/index.d.ts",
+        "../node_modules/got/dist/source/types.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/request.d.ts": [
+        "../node_modules/got/dist/source/index.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/index.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/appservice/Appservice.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/appservice/Intent.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/appservice/MatrixBridge.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/appservice/http_responses.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/helpers/RichReply.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/helpers/MentionPill.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/helpers/Permalinks.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/helpers/MatrixGlob.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/helpers/ProfileCache.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/helpers/MatrixEntity.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/helpers/UnpaddedBase64.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/logging/ConsoleLogger.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/logging/RichConsoleLogger.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/logging/ILogger.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/logging/LogService.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/metrics/contexts.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/metrics/names.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/metrics/decorators.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/metrics/IMetricListener.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/metrics/Metrics.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/mixins/AutojoinRoomsMixin.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/mixins/AutojoinUpgradedRoomsMixin.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/Presence.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/MatrixProfile.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/EventContext.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/PowerLevelBounds.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/OpenIDConnect.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/Policies.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/Threepid.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/MSC1772Space.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/IdentityServerModels.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/EventKind.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/converter.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/InvalidEventError.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/Event.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomEvent.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/PresenceEvent.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/MembershipEvent.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/MessageEvent.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/AliasesEvent.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/CanonicalAliasEvent.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/CreateEvent.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/JoinRulesEvent.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/PowerLevelsEvent.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RedactionEvent.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/PinnedEventsEvent.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomAvatarEvent.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomNameEvent.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomTopicEvent.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/preprocessors/IPreprocessor.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/preprocessors/RichRepliesPreprocessor.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/storage/IAppserviceStorageProvider.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/storage/IStorageProvider.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/storage/MemoryStorageProvider.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/storage/SimpleFsStorageProvider.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/strategies/AppserviceJoinRoomStrategy.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/strategies/JoinRoomStrategy.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/identity/IdentityClient.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/IFilter.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/MatrixClient.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/MatrixAuth.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/UnstableApis.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/AdminApis.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/request.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/PantalaimonClient.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/SynchronousMatrixClient.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/SynapseAdminApis.d.ts"
+      ],
+      "../src/interfaces.ts": [
+        "../src/structures/stringformatter.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/index.d.ts"
+      ],
+      "../src/db/interfaces.ts": [
+        "../src/interfaces.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/preprocessors/RichRepliesPreprocessor.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/MatrixClient.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/preprocessors/IPreprocessor.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/index.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/MatrixProfile.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/index.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/helpers/ProfileCache.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/index.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/appservice/Appservice.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/preprocessors/IPreprocessor.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/MatrixClient.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/index.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/MatrixClient.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/storage/IStorageProvider.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/strategies/JoinRoomStrategy.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/UnstableApis.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/preprocessors/IPreprocessor.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/metrics/Metrics.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/AdminApis.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/Presence.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/MembershipEvent.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/EventContext.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/PowerLevelBounds.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/identity/IdentityClient.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/OpenIDConnect.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/SynchronousMatrixClient.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/MatrixClient.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/PantalaimonClient.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/storage/IStorageProvider.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/MatrixClient.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/MatrixAuth.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/MatrixClient.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/mixins/AutojoinUpgradedRoomsMixin.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/MatrixClient.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/appservice/Appservice.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/mixins/AutojoinRoomsMixin.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/MatrixClient.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/appservice/Appservice.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/helpers/MentionPill.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/MatrixClient.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/AdminApis.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/MatrixClient.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/SynapseAdminApis.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/SynapseAdminApis.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/MatrixClient.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/metrics/contexts.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/MatrixClient.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/appservice/Intent.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/identity/IdentityClient.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/metrics/Metrics.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/metrics/IMetricListener.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/metrics/contexts.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/identity/IdentityClient.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/OpenIDConnect.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/Policies.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/metrics/Metrics.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/Threepid.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/MatrixClient.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/IdentityServerModels.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/metrics/IMetricListener.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/metrics/contexts.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/UnstableApis.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/MatrixClient.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/MSC1772Space.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/MSC1772Space.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/MatrixClient.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/appservice/Appservice.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/appservice/Intent.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/index.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/appservice/MatrixBridge.d.ts",
+        "../node_modules/@types/express-serve-static-core/index.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/strategies/AppserviceJoinRoomStrategy.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/strategies/JoinRoomStrategy.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/appservice/Appservice.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/appservice/MatrixBridge.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/appservice/Appservice.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/appservice/Intent.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/appservice/Intent.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/index.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/appservice/Appservice.d.ts"
+      ],
+      "../node_modules/got/dist/source/create.d.ts": [
+        "../node_modules/got/dist/source/types.d.ts"
+      ],
+      "../node_modules/got/dist/source/as-promise/types.d.ts": [
+        "../node_modules/p-cancelable/index.d.ts",
+        "../node_modules/got/dist/source/core/index.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/got/dist/source/as-promise/index.d.ts": [
+        "../node_modules/got/dist/source/as-promise/types.d.ts"
+      ],
+      "../node_modules/got/dist/source/core/index.d.ts": [
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/url.d.ts",
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/tls.d.ts",
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/https.d.ts",
+        "../node_modules/@szmarczak/http-timer/dist/source/index.d.ts",
+        "../node_modules/got/node_modules/cacheable-lookup/index.d.ts",
+        "../node_modules/@types/cacheable-request/index.d.ts",
+        "../node_modules/@types/responselike/index.d.ts",
+        "../node_modules/got/dist/source/core/utils/timed-out.d.ts",
+        "../node_modules/got/dist/source/core/utils/options-to-url.d.ts",
+        "../node_modules/got/dist/source/core/utils/dns-ip-version.d.ts",
+        "../node_modules/got/dist/source/as-promise/types.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/@types/cacheable-request/index.d.ts": [
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/url.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/keyv/index.d.ts",
+        "../node_modules/@types/http-cache-semantics/index.d.ts",
+        "../node_modules/@types/responselike/index.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/@types/responselike/index.d.ts": [
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/@types/keyv/index.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/@szmarczak/http-timer/dist/source/index.d.ts": [
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/helpers/UnpaddedBase64.d.ts": [
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/@types/express-serve-static-core/index.d.ts": [
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/range-parser/index.d.ts",
+        "../node_modules/@types/qs/index.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/@types/node/perf_hooks.d.ts": [
+        "../node_modules/@types/node/async_hooks.d.ts"
+      ],
+      "../node_modules/@types/node/child_process.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/@types/node/cluster.d.ts": [
+        "../node_modules/@types/node/child_process.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/net.d.ts"
+      ],
+      "../node_modules/@types/node/crypto.d.ts": [
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/@types/node/dgram.d.ts": [
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/dns.d.ts",
+        "../node_modules/@types/node/events.d.ts"
+      ],
+      "../node_modules/got/node_modules/cacheable-lookup/index.d.ts": [
+        "../node_modules/@types/node/dns.d.ts",
+        "../node_modules/@types/node/http.d.ts"
+      ],
+      "../node_modules/@types/node/net.d.ts": [
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/dns.d.ts"
+      ],
+      "../node_modules/@types/node/tty.d.ts": [
+        "../node_modules/@types/node/net.d.ts"
+      ],
+      "../node_modules/@types/node/process.d.ts": [
+        "../node_modules/@types/node/tty.d.ts"
+      ],
+      "../node_modules/@types/node/tls.d.ts": [
+        "../node_modules/@types/node/net.d.ts"
+      ],
+      "../node_modules/pg-promise/typescript/pg-subset.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/tls.d.ts"
+      ],
+      "../node_modules/pg-promise/typescript/pg-promise.d.ts": [
+        "../node_modules/pg-promise/typescript/pg-subset.d.ts",
+        "../node_modules/pg-minify/typescript/pg-minify.d.ts",
+        "../node_modules/spex/typescript/spex.d.ts"
+      ],
+      "../node_modules/@types/node/https.d.ts": [
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/tls.d.ts",
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/url.d.ts"
+      ],
+      "../node_modules/@types/node/http2.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/tls.d.ts",
+        "../node_modules/@types/node/url.d.ts",
+        "../node_modules/@types/node/http.d.ts"
+      ],
+      "../node_modules/@types/node/http.d.ts": [
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/url.d.ts",
+        "../node_modules/@types/node/net.d.ts"
+      ],
+      "../node_modules/got/dist/source/core/utils/timed-out.d.ts": [
+        "../node_modules/@types/node/http.d.ts"
+      ],
+      "../node_modules/@types/node/domain.d.ts": [
+        "../node_modules/@types/node/events.d.ts"
+      ],
+      "../node_modules/@types/node/events.d.ts": [
+        "../node_modules/@types/node/events.d.ts"
+      ],
+      "../node_modules/@types/node/worker_threads.d.ts": [
+        "../node_modules/@types/node/vm.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/fs.d.ts"
+      ],
+      "../node_modules/@types/node/stream.d.ts": [
+        "../node_modules/@types/node/events.d.ts"
+      ],
+      "../node_modules/canvas/types/index.d.ts": [
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/@types/node/zlib.d.ts": [
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/@types/node/v8.d.ts": [
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/@types/node/fs.d.ts": [
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/url.d.ts"
+      ],
+      "../node_modules/@types/node/readline.d.ts": [
+        "../node_modules/@types/node/events.d.ts"
+      ],
+      "../node_modules/@types/node/repl.d.ts": [
+        "../node_modules/@types/node/readline.d.ts",
+        "../node_modules/@types/node/vm.d.ts",
+        "../node_modules/@types/node/util.d.ts"
+      ],
+      "../node_modules/@types/node/inspector.d.ts": [
+        "../node_modules/@types/node/events.d.ts"
+      ],
+      "../node_modules/@types/node/url.d.ts": [
+        "../node_modules/@types/node/querystring.d.ts"
+      ],
+      "../node_modules/got/dist/source/core/utils/options-to-url.d.ts": [
+        "../node_modules/@types/node/url.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/storage/SimpleFsStorageProvider.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/storage/IStorageProvider.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/IFilter.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/storage/IAppserviceStorageProvider.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/storage/MemoryStorageProvider.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/storage/IStorageProvider.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/IFilter.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/storage/IAppserviceStorageProvider.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/storage/IStorageProvider.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/IFilter.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomEvent.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/Event.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomTopicEvent.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomEvent.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomNameEvent.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomEvent.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomAvatarEvent.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomEvent.d.ts",
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/MessageEvent.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/PinnedEventsEvent.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomEvent.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RedactionEvent.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomEvent.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/PowerLevelsEvent.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomEvent.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/JoinRulesEvent.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomEvent.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/CreateEvent.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomEvent.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/CanonicalAliasEvent.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomEvent.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/AliasesEvent.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomEvent.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/MessageEvent.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomEvent.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/converter.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomEvent.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/EventContext.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomEvent.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/MembershipEvent.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomEvent.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/PresenceEvent.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/Event.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/Presence.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/PresenceEvent.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/logging/LogService.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/logging/ILogger.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/logging/RichConsoleLogger.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/logging/ILogger.d.ts",
+        "../node_modules/chalk/index.d.ts"
+      ],
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/logging/ConsoleLogger.d.ts": [
+        "../node_modules/@sorunome/matrix-bot-sdk/lib/logging/ILogger.d.ts"
+      ],
+      "../src/db/connector.ts": [
+        "../node_modules/prom-client/index.d.ts"
+      ],
+      "../node_modules/hasha/node_modules/type-fest/index.d.ts": [
+        "../node_modules/hasha/node_modules/type-fest/source/basic.d.ts",
+        "../node_modules/hasha/node_modules/type-fest/source/except.d.ts",
+        "../node_modules/hasha/node_modules/type-fest/source/mutable.d.ts",
+        "../node_modules/hasha/node_modules/type-fest/source/merge.d.ts",
+        "../node_modules/hasha/node_modules/type-fest/source/merge-exclusive.d.ts",
+        "../node_modules/hasha/node_modules/type-fest/source/require-at-least-one.d.ts",
+        "../node_modules/hasha/node_modules/type-fest/source/require-exactly-one.d.ts",
+        "../node_modules/hasha/node_modules/type-fest/source/partial-deep.d.ts",
+        "../node_modules/hasha/node_modules/type-fest/source/readonly-deep.d.ts",
+        "../node_modules/hasha/node_modules/type-fest/source/literal-union.d.ts",
+        "../node_modules/hasha/node_modules/type-fest/source/promisable.d.ts",
+        "../node_modules/hasha/node_modules/type-fest/source/opaque.d.ts",
+        "../node_modules/hasha/node_modules/type-fest/source/set-optional.d.ts",
+        "../node_modules/hasha/node_modules/type-fest/source/set-required.d.ts",
+        "../node_modules/hasha/node_modules/type-fest/source/package-json.d.ts"
+      ],
+      "../node_modules/hasha/node_modules/type-fest/source/package-json.d.ts": [
+        "../node_modules/hasha/node_modules/type-fest/index.d.ts"
+      ],
+      "../node_modules/hasha/node_modules/type-fest/source/require-at-least-one.d.ts": [
+        "../node_modules/hasha/node_modules/type-fest/source/except.d.ts"
+      ],
+      "../node_modules/hasha/node_modules/type-fest/source/merge.d.ts": [
+        "../node_modules/hasha/node_modules/type-fest/source/except.d.ts"
+      ],
+      "../node_modules/hasha/node_modules/type-fest/source/partial-deep.d.ts": [
+        "../node_modules/hasha/node_modules/type-fest/source/basic.d.ts"
+      ],
+      "../node_modules/hasha/node_modules/type-fest/source/readonly-deep.d.ts": [
+        "../node_modules/hasha/node_modules/type-fest/source/basic.d.ts"
+      ],
+      "../node_modules/hasha/node_modules/type-fest/source/literal-union.d.ts": [
+        "../node_modules/hasha/node_modules/type-fest/source/basic.d.ts"
+      ],
+      "../node_modules/blurhash/dist/index.d.ts": [
+        "../node_modules/blurhash/dist/decode.d.ts",
+        "../node_modules/blurhash/dist/encode.d.ts",
+        "../node_modules/blurhash/dist/error.d.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "../node_modules/@types/node/globals.d.ts",
+      "../node_modules/@types/node/async_hooks.d.ts",
+      "../node_modules/@types/node/buffer.d.ts",
+      "../node_modules/@types/node/child_process.d.ts",
+      "../node_modules/@types/node/cluster.d.ts",
+      "../node_modules/@types/node/console.d.ts",
+      "../node_modules/@types/node/constants.d.ts",
+      "../node_modules/@types/node/crypto.d.ts",
+      "../node_modules/@types/node/dgram.d.ts",
+      "../node_modules/@types/node/dns.d.ts",
+      "../node_modules/@types/node/domain.d.ts",
+      "../node_modules/@types/node/events.d.ts",
+      "../node_modules/@types/node/fs.d.ts",
+      "../node_modules/@types/node/http.d.ts",
+      "../node_modules/@types/node/http2.d.ts",
+      "../node_modules/@types/node/https.d.ts",
+      "../node_modules/@types/node/inspector.d.ts",
+      "../node_modules/@types/node/module.d.ts",
+      "../node_modules/@types/node/net.d.ts",
+      "../node_modules/@types/node/os.d.ts",
+      "../node_modules/@types/node/path.d.ts",
+      "../node_modules/@types/node/perf_hooks.d.ts",
+      "../node_modules/@types/node/process.d.ts",
+      "../node_modules/@types/node/punycode.d.ts",
+      "../node_modules/@types/node/querystring.d.ts",
+      "../node_modules/@types/node/readline.d.ts",
+      "../node_modules/@types/node/repl.d.ts",
+      "../node_modules/@types/node/stream.d.ts",
+      "../node_modules/@types/node/string_decoder.d.ts",
+      "../node_modules/@types/node/timers.d.ts",
+      "../node_modules/@types/node/tls.d.ts",
+      "../node_modules/@types/node/trace_events.d.ts",
+      "../node_modules/@types/node/tty.d.ts",
+      "../node_modules/@types/node/url.d.ts",
+      "../node_modules/@types/node/util.d.ts",
+      "../node_modules/@types/node/v8.d.ts",
+      "../node_modules/@types/node/vm.d.ts",
+      "../node_modules/@types/node/worker_threads.d.ts",
+      "../node_modules/@types/node/zlib.d.ts",
+      "../node_modules/@types/node/globals.global.d.ts",
+      "../node_modules/@types/node/wasi.d.ts",
+      "../node_modules/@types/node/ts3.6/base.d.ts",
+      "../node_modules/@types/node/assert.d.ts",
+      "../node_modules/@types/node/base.d.ts",
+      "../node_modules/@types/node/index.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/appservice/Intent.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/appservice/MatrixBridge.d.ts",
+      "../node_modules/@types/range-parser/index.d.ts",
+      "../node_modules/@types/qs/index.d.ts",
+      "../node_modules/@types/express-serve-static-core/index.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/appservice/Appservice.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/appservice/http_responses.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/helpers/RichReply.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/IFilter.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/storage/IStorageProvider.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/strategies/JoinRoomStrategy.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/MSC1772Space.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/UnstableApis.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/preprocessors/IPreprocessor.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/OpenIDConnect.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/Policies.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/Threepid.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/IdentityServerModels.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/identity/IdentityClient.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/metrics/contexts.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/metrics/IMetricListener.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/metrics/Metrics.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/SynapseAdminApis.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/AdminApis.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/Event.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/PresenceEvent.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/Presence.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomEvent.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/MembershipEvent.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/EventContext.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/PowerLevelBounds.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/MatrixClient.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/helpers/MentionPill.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/helpers/Permalinks.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/helpers/MatrixGlob.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/helpers/ProfileCache.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/helpers/MatrixEntity.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/helpers/UnpaddedBase64.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/logging/ILogger.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/logging/ConsoleLogger.d.ts",
+      "../node_modules/chalk/index.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/logging/RichConsoleLogger.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/logging/LogService.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/metrics/names.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/metrics/decorators.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/mixins/AutojoinRoomsMixin.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/mixins/AutojoinUpgradedRoomsMixin.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/MatrixProfile.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/EventKind.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/converter.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/InvalidEventError.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/MessageEvent.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/AliasesEvent.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/CanonicalAliasEvent.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/CreateEvent.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/JoinRulesEvent.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/PowerLevelsEvent.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RedactionEvent.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/PinnedEventsEvent.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomAvatarEvent.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomNameEvent.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/models/events/RoomTopicEvent.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/preprocessors/RichRepliesPreprocessor.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/storage/IAppserviceStorageProvider.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/storage/MemoryStorageProvider.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/storage/SimpleFsStorageProvider.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/strategies/AppserviceJoinRoomStrategy.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/MatrixAuth.d.ts",
+      "../node_modules/p-cancelable/index.d.ts",
+      "../node_modules/@szmarczak/http-timer/dist/source/index.d.ts",
+      "../node_modules/got/node_modules/cacheable-lookup/index.d.ts",
+      "../node_modules/@types/keyv/index.d.ts",
+      "../node_modules/@types/http-cache-semantics/index.d.ts",
+      "../node_modules/@types/responselike/index.d.ts",
+      "../node_modules/@types/cacheable-request/index.d.ts",
+      "../node_modules/got/dist/source/core/utils/timed-out.d.ts",
+      "../node_modules/got/dist/source/core/utils/options-to-url.d.ts",
+      "../node_modules/got/dist/source/core/utils/dns-ip-version.d.ts",
+      "../node_modules/got/dist/source/core/index.d.ts",
+      "../node_modules/got/dist/source/as-promise/types.d.ts",
+      "../node_modules/got/dist/source/as-promise/index.d.ts",
+      "../node_modules/got/dist/source/types.d.ts",
+      "../node_modules/got/dist/source/create.d.ts",
+      "../node_modules/got/dist/source/index.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/request.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/PantalaimonClient.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/SynchronousMatrixClient.d.ts",
+      "../node_modules/@sorunome/matrix-bot-sdk/lib/index.d.ts",
+      "../node_modules/prom-client/index.d.ts",
+      "../node_modules/@types/mime/index.d.ts",
+      "../node_modules/@types/serve-static/index.d.ts",
+      "../node_modules/@types/connect/index.d.ts",
+      "../node_modules/@types/body-parser/index.d.ts",
+      "../node_modules/@types/express/index.d.ts",
+      "../src/db/connector.ts",
+      "../node_modules/logform/index.d.ts",
+      "../node_modules/winston-transport/index.d.ts",
+      "../node_modules/winston/lib/winston/config/index.d.ts",
+      "../node_modules/winston/lib/winston/transports/index.d.ts",
+      "../node_modules/winston/index.d.ts",
+      "../src/config.ts",
+      "../node_modules/winston-daily-rotate-file/index.d.ts",
+      "../src/log.ts",
+      "../src/structures/stringformatter.ts",
+      "../src/interfaces.ts",
+      "../src/db/interfaces.ts",
+      "../src/db/emotestore.ts",
+      "../node_modules/file-type/index.d.ts",
+      "../node_modules/buffer/index.d.ts",
+      "../node_modules/hasha/node_modules/type-fest/source/basic.d.ts",
+      "../node_modules/hasha/node_modules/type-fest/source/except.d.ts",
+      "../node_modules/hasha/node_modules/type-fest/source/mutable.d.ts",
+      "../node_modules/hasha/node_modules/type-fest/source/merge.d.ts",
+      "../node_modules/hasha/node_modules/type-fest/source/merge-exclusive.d.ts",
+      "../node_modules/hasha/node_modules/type-fest/source/require-at-least-one.d.ts",
+      "../node_modules/hasha/node_modules/type-fest/source/require-exactly-one.d.ts",
+      "../node_modules/hasha/node_modules/type-fest/source/partial-deep.d.ts",
+      "../node_modules/hasha/node_modules/type-fest/source/readonly-deep.d.ts",
+      "../node_modules/hasha/node_modules/type-fest/source/literal-union.d.ts",
+      "../node_modules/hasha/node_modules/type-fest/source/promisable.d.ts",
+      "../node_modules/hasha/node_modules/type-fest/source/opaque.d.ts",
+      "../node_modules/hasha/node_modules/type-fest/source/set-optional.d.ts",
+      "../node_modules/hasha/node_modules/type-fest/source/set-required.d.ts",
+      "../node_modules/hasha/node_modules/type-fest/source/package-json.d.ts",
+      "../node_modules/hasha/node_modules/type-fest/index.d.ts",
+      "../node_modules/hasha/index.d.ts",
+      "../src/util.ts",
+      "../src/structures/lock.ts",
+      "../src/emotesyncroniser.ts",
+      "../src/db/eventstore.ts",
+      "../src/eventsyncroniser.ts",
+      "../src/structures/timedcache.ts",
+      "../src/db/roomstore.ts",
+      "../src/roomsyncroniser.ts",
+      "../src/db/userstore.ts",
+      "../src/db/puppetstore.ts",
+      "../src/provisioner.ts",
+      "../src/usersyncroniser.ts",
+      "../src/db/groupstore.ts",
+      "../src/groupsyncroniser.ts",
+      "../src/db/reactionstore.ts",
+      "../src/db/schema/dbschema.ts",
+      "../src/db/sqlite3.ts",
+      "../node_modules/pg-promise/typescript/pg-subset.d.ts",
+      "../node_modules/pg-minify/typescript/pg-minify.d.ts",
+      "../node_modules/spex/typescript/spex.d.ts",
+      "../node_modules/pg-promise/typescript/pg-promise.d.ts",
+      "../src/db/postgres.ts",
+      "../src/store.ts",
+      "../src/joinstrategy.ts",
+      "../src/provisioningapi.ts",
+      "../src/presencehandler.ts",
+      "../node_modules/expire-set/lib/src/index.d.ts",
+      "../src/structures/messagededuplicator.ts",
+      "../src/typinghandler.ts",
+      "../src/reactionhandler.ts",
+      "../src/matrixeventhandler.ts",
+      "../node_modules/blurhash/dist/decode.d.ts",
+      "../node_modules/blurhash/dist/encode.d.ts",
+      "../node_modules/blurhash/dist/error.d.ts",
+      "../node_modules/blurhash/dist/index.d.ts",
+      "../node_modules/canvas/types/index.d.ts",
+      "../src/remoteeventhandler.ts",
+      "../src/namespacehandler.ts",
+      "../src/structures/delayedfunction.ts",
+      "../src/puppetbridge.ts",
+      "../src/botprovisioner.ts",
+      "../src/index.ts",
+      "../src/db/schema/v1.ts",
+      "../src/db/schema/v10.ts",
+      "../src/db/schema/v11.ts",
+      "../src/db/schema/v12.ts",
+      "../src/db/schema/v13.ts",
+      "../src/db/schema/v14.ts",
+      "../src/db/schema/v15.ts",
+      "../src/db/schema/v16.ts",
+      "../src/db/schema/v2.ts",
+      "../src/db/schema/v3.ts",
+      "../src/db/schema/v4.ts",
+      "../src/db/schema/v5.ts",
+      "../src/db/schema/v6.ts",
+      "../src/db/schema/v7.ts",
+      "../src/db/schema/v8.ts",
+      "../src/db/schema/v9.ts",
+      "../test/config.ts",
+      "../node_modules/@types/chai/index.d.ts",
+      "../test/test_config.ts",
+      "../test/test_joinstrategy.ts",
+      "../test/test_log.ts",
+      "../test/test_matrixeventhandler.ts",
+      "../test/test_presencehandler.ts",
+      "../test/test_provisioner.ts",
+      "../test/test_reactionhandler.ts",
+      "../test/test_remoteeventhandler.ts",
+      "../test/test_store.ts",
+      "../test/test_typinghandler.ts",
+      "../test/test_util.ts",
+      "../test/db/test_eventstore.ts",
+      "../test/db/test_groupstore.ts",
+      "../test/db/test_puppetstore.ts",
+      "../test/db/test_reactionstore.ts",
+      "../test/db/test_roomstore.ts",
+      "../test/db/test_userstore.ts",
+      "../test/structures/test_delayedfunction.ts",
+      "../test/structures/test_lock.ts",
+      "../test/structures/test_messagededuplicator.ts",
+      "../test/structures/test_stringformatter.ts",
+      "../test/structures/test_timedcache.ts",
+      "../node_modules/@types/mocha/index.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.d.ts",
+      "../node_modules/typescript/lib/lib.es2016.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.d.ts",
+      "../node_modules/typescript/lib/lib.es2018.d.ts",
+      "../node_modules/typescript/lib/lib.es2019.d.ts",
+      "../node_modules/typescript/lib/lib.es2020.d.ts",
+      "../node_modules/typescript/lib/lib.esnext.d.ts",
+      "../node_modules/typescript/lib/lib.es2016.full.d.ts",
+      "../node_modules/typescript/lib/lib.es5.d.ts",
+      "../node_modules/typescript/lib/lib.dom.d.ts",
+      "../node_modules/typescript/lib/lib.dom.iterable.d.ts",
+      "../node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
+      "../node_modules/typescript/lib/lib.scripthost.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "../node_modules/typescript/lib/lib.es2016.array.include.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.object.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.string.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.intl.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.typedarrays.d.ts",
+      "../node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts",
+      "../node_modules/typescript/lib/lib.es2018.asynciterable.d.ts",
+      "../node_modules/typescript/lib/lib.es2018.intl.d.ts",
+      "../node_modules/typescript/lib/lib.es2018.promise.d.ts",
+      "../node_modules/typescript/lib/lib.es2018.regexp.d.ts",
+      "../node_modules/typescript/lib/lib.es2019.array.d.ts",
+      "../node_modules/typescript/lib/lib.es2019.object.d.ts",
+      "../node_modules/typescript/lib/lib.es2019.string.d.ts",
+      "../node_modules/typescript/lib/lib.es2019.symbol.d.ts",
+      "../node_modules/typescript/lib/lib.es2020.bigint.d.ts",
+      "../node_modules/typescript/lib/lib.es2020.promise.d.ts",
+      "../node_modules/typescript/lib/lib.es2020.string.d.ts",
+      "../node_modules/typescript/lib/lib.es2020.symbol.wellknown.d.ts",
+      "../node_modules/typescript/lib/lib.esnext.intl.d.ts"
+    ]
+  },
+  "version": "3.8.3"
+}

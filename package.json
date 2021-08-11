@@ -4,7 +4,7 @@
   "description": "Matrix Puppeting Bridge library",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sorunome/mx-puppet-bridge"
+    "url": "git+https://github.com/nivekuil/mx-puppet-bridge"
   },
   "bugs": {
     "url": "https://github.com/Sorunome/mx-puppet-bridge/issues"

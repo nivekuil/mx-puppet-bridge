@@ -23,7 +23,7 @@ import { StringFormatter } from "./structures/stringformatter";
 const log = new Log("GroupSync");
 
 // tslint:disable-next-line:no-magic-numbers
-const GROUP_LOOKUP_LOCK_TIMEOUT = 1000 * 60;
+const GROUP_LOOKUP_LOCK_TIMEOUT = 1000 * 60 * 30;
 const GROUP_ID_LENGTH = 30;
 const MATRIX_URL_SCHEME_MASK = "https://matrix.to/#/";
 

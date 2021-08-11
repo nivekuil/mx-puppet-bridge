@@ -1,0 +1,43 @@
+/// <reference types="node" />
+import { IDbSchema } from "./db/schema/dbschema";
+import { DatabaseConfig } from "./config";
+import { DbUserStore } from "./db/userstore";
+import { DbRoomStore } from "./db/roomstore";
+import { DbGroupStore } from "./db/groupstore";
+import { DbPuppetStore } from "./db/puppetstore";
+import { DbEventStore } from "./db/eventstore";
+import { DbReactionStore } from "./db/reactionstore";
+import { DbEmoteStore } from "./db/emotestore";
+import { IDatabaseConnector } from "./db/connector";
+import { PuppetBridge } from "./puppetbridge";
+export declare const CURRENT_SCHEMA = 16;
+declare type GetSchemaClass = (version: number) => IDbSchema;
+export declare class Store {
+    private config;
+    bridge: PuppetBridge;
+    db: IDatabaseConnector;
+    private pRoomStore;
+    private pUserStore;
+    private pGroupStore;
+    private pPuppetStore;
+    private pEventStore;
+    private pReactionStore;
+    private pEmoteStore;
+    constructor(config: DatabaseConfig, bridge: PuppetBridge);
+    get roomStore(): DbRoomStore;
+    get userStore(): DbUserStore;
+    get groupStore(): DbGroupStore;
+    get puppetStore(): DbPuppetStore;
+    get eventStore(): DbEventStore;
+    get reactionStore(): DbReactionStore;
+    get emoteStore(): DbEmoteStore;
+    init(overrideSchema?: number, table?: string, getSchemaClass?: GetSchemaClass, openDatabase?: boolean): Promise<void>;
+    close(): Promise<void>;
+    getFileMxc(thing: string | Buffer): Promise<string | null>;
+    setFileMxc(thing: string | Buffer, mxcUrl: string, filename?: string): Promise<void>;
+    createTable(statement: string, tablename: string): Promise<void>;
+    private getSchemaVersion;
+    private setSchemaVersion;
+    private openDatabase;
+}
+export {};

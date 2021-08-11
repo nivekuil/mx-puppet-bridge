@@ -1,0 +1,35 @@
+import { PuppetBridge } from "./puppetbridge";
+import { MatrixClient } from "@sorunome/matrix-bot-sdk";
+import { IEventInfo } from "./interfaces";
+export declare class MatrixEventHandler {
+    private bridge;
+    private memberInfoCache;
+    private typingCache;
+    constructor(bridge: PuppetBridge);
+    registerAppserviceEvents(): void;
+    getEventInfo(roomId: string, eventId: string, client?: MatrixClient | null, sender?: string): Promise<IEventInfo | null>;
+    private handleRoomEvent;
+    private handleJoinEvent;
+    private handleGhostJoinEvent;
+    private handleUserJoinEvent;
+    private handleLeaveEvent;
+    private handleRedactEvent;
+    private handleMessageEvent;
+    private getFileEventData;
+    private handleFileEvent;
+    private getMessageEventData;
+    private handleTextEvent;
+    private handleInviteEvent;
+    private handleRoomQuery;
+    private handlePresence;
+    private handleTyping;
+    private handleReceipt;
+    private getRoomDisplaynameCache;
+    private updateCachedRoomMemberInfo;
+    private getRoomMemberInfo;
+    private applyRelayFormatting;
+    private getMessageType;
+    private getSendingUser;
+    private getUserParts;
+    private getRoomParts;
+}
